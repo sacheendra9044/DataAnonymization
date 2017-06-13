@@ -1,0 +1,2001 @@
+LIMIT_BAL,BILL_AMOUNT,JOB,SEX,EDUCATION,MARRIAGE,AGE,PAY_DUE
+10000,8602,Artist,Any,University,Single,1,Yes
+110000,83755,Artist,Any,University,Single,1,No
+70000,65802,Artist,Any,University,Single,1,Yes
+70000,41087,Artist,Any,University,Single,1,Yes
+30000,28452,Artist,Any,University,Single,1,No
+170000,19269,Artist,Any,University,Single,1,Yes
+20000,16001,Artist,Any,University,Single,1,No
+120000,107314,Artist,Any,University,Single,1,No
+470000,296573,Artist,Any,University,Single,1,No
+50000,49758,Artist,Any,University,Single,1,Yes
+50000,50867,Artist,Any,University,Single,1,No
+30000,29242,Artist,Any,University,Single,1,No
+400000,19532,Artist,Any,University,Single,1,No
+50000,13694,Artist,Any,University,Single,1,Yes
+100000,1370,Artist,Any,University,Single,1,No
+50000,47081,Artist,Any,University,Single,1,Yes
+240000,141315,Artist,Any,University,Single,1,No
+500000,507726,Artist,Any,University,Single,1,Yes
+320000,71305,Artist,Any,University,Single,1,No
+130000,89055,Artist,Any,University,Single,1,No
+50000,0,Artist,Any,University,Single,1,No
+120000,120298,Artist,Any,University,Single,1,No
+230000,13668,Artist,Any,University,Single,1,Yes
+90000,91894,Artist,Any,University,Single,1,No
+50000,350,Artist,Any,University,Single,1,No
+290000,20807,Artist,Any,University,Single,1,No
+140000,131367,Artist,Any,University,Single,1,Yes
+70000,41264,Artist,Any,University,Single,1,No
+170000,28304,Artist,Any,University,Single,1,No
+20000,16440,Artist,Any,University,Single,1,No
+180000,42238,Artist,Any,University,Single,1,No
+20000,18355,Artist,Any,University,Single,1,No
+20000,18649,Artist,Any,University,Single,1,No
+20000,17208,Artist,Any,University,Single,1,No
+140000,26450,Artist,Any,University,Single,1,No
+40000,36650,Artist,Any,University,Single,1,No
+180000,340,Artist,Any,University,Single,1,No
+370000,276436,Artist,Any,University,Single,1,No
+30000,2400,Artist,Any,University,Single,1,Yes
+170000,162671,Artist,Any,University,Single,1,No
+20000,10476,Artist,Any,University,Single,1,No
+160000,80964,Artist,Any,University,Single,1,No
+10000,7960,Artist,Any,University,Single,1,Yes
+140000,197,Artist,Any,University,Single,1,No
+220000,31037,Artist,Any,University,Single,1,No
+80000,998,Artist,Any,University,Single,1,No
+80000,22895,Artist,Any,University,Single,1,No
+130000,131041,Artist,Any,University,Single,1,No
+220000,168286,Artist,Any,University,Single,1,No
+30000,27772,Artist,Any,University,Single,1,No
+50000,50342,Artist,Any,University,Single,1,No
+260000,68411,Artist,Any,University,Single,1,No
+160000,1989,Artist,Any,University,Single,1,Yes
+50000,21062,Artist,Any,University,Single,1,No
+50000,3779,Artist,Any,University,Single,1,No
+180000,5591,Artist,Any,University,Single,1,Yes
+360000,286732,Artist,Any,University,Single,1,No
+80000,57376,Artist,Any,University,Single,1,No
+50000,780,Artist,Any,University,Single,1,Yes
+100000,61383,Artist,Any,University,Single,1,No
+80000,57314,Artist,Any,University,Single,1,No
+50000,47053,Artist,Any,University,Single,1,Yes
+20000,780,Artist,Any,University,Single,1,No
+170000,97474,Artist,Any,University,Single,1,No
+20000,20297,Artist,Any,University,Single,1,No
+50000,50834,Artist,Any,University,Single,1,Yes
+100000,44953,Artist,Any,University,Single,1,No
+110000,6470,Artist,Any,University,Single,1,No
+180000,4745,Artist,Any,University,Single,1,No
+180000,126195,Artist,Any,University,Single,1,No
+180000,108580,Artist,Any,University,Single,1,Yes
+420000,28206,Artist,Any,University,Single,1,No
+130000,133622,Artist,Any,University,Single,1,No
+20000,17384,Artist,Any,University,Single,1,No
+30000,33195,Artist,Any,University,Single,1,No
+10000,15147,Artist,Any,University,Single,1,No
+90000,17524,Artist,Any,University,Single,1,No
+20000,19433,Artist,Any,University,Single,1,No
+50000,30501,Artist,Any,University,Single,1,No
+30000,3226,Artist,Any,University,Single,1,Yes
+230000,95311,Artist,Any,University,Single,1,No
+120000,2474,Artist,Any,University,Single,1,No
+100000,9614,Artist,Any,University,Single,1,No
+30000,24285,Artist,Any,University,Single,1,No
+150000,3559,Artist,Any,University,Single,1,No
+360000,114527,Artist,Any,University,Single,1,No
+20000,15789,Artist,Any,University,Single,1,No
+280000,82742,Artist,Any,University,Single,1,No
+200000,186806,Artist,Any,University,Single,1,No
+360000,23900,Artist,Any,University,Single,1,No
+50000,402,Artist,Any,University,Single,1,No
+280000,204773,Artist,Any,University,Single,1,No
+30000,27358,Artist,Any,University,Single,1,No
+360000,238971,Artist,Any,University,Single,1,Yes
+20000,18553,Dealer,Any,Graduate School,Single,1,No
+170000,130370,Dealer,Any,Graduate School,Single,1,No
+50000,1156,Dealer,Any,Graduate School,Single,1,No
+200000,2393,Dealer,Any,Graduate School,Single,1,No
+210000,69937,Dealer,Any,Graduate School,Single,1,No
+50000,14811,Dealer,Any,Graduate School,Single,1,No
+110000,48123,Dealer,Any,Graduate School,Single,1,No
+150000,0,Dealer,Any,Graduate School,Single,1,No
+230000,2403,Dealer,Any,Graduate School,Single,1,No
+360000,3280,Dealer,Any,Graduate School,Single,1,Yes
+20000,20137,Dealer,Any,Graduate School,Single,1,No
+50000,15448,Dealer,Any,Graduate School,Single,1,Yes
+20000,20243,Dealer,Any,Graduate School,Single,1,No
+80000,80000,Dealer,Any,Graduate School,Single,1,No
+20000,16233,Dealer,Any,Graduate School,Single,1,Yes
+80000,3526,Dealer,Any,Graduate School,Single,1,No
+20000,10658,Dealer,Any,Graduate School,Single,1,No
+70000,853,Dealer,Any,Graduate School,Single,1,No
+70000,67857,Dealer,Any,Graduate School,Single,1,No
+300000,42189,Dealer,Any,Graduate School,Single,1,No
+200000,2290,Dealer,Any,Graduate School,Single,1,No
+170000,23594,Dealer,Any,Graduate School,Single,1,No
+20000,23538,Dealer,Any,Graduate School,Single,1,No
+230000,-5,Dealer,Any,Graduate School,Single,1,No
+400000,5154,Dealer,Any,Graduate School,Single,1,No
+100000,555,Dealer,Any,Graduate School,Single,1,Yes
+20000,0,Dealer,Any,Graduate School,Single,1,Yes
+10000,10438,Dealer,Any,Graduate School,Single,1,No
+50000,24987,Dealer,Any,Graduate School,Single,1,Yes
+380000,-81,Dealer,Any,Graduate School,Single,1,No
+100000,52128,Dealer,Any,Graduate School,Single,1,No
+30000,18199,Dealer,Any,Graduate School,Single,1,Yes
+240000,326,Dealer,Any,Graduate School,Single,1,No
+20000,19115,Dealer,Any,Graduate School,Single,1,No
+210000,60502,Lawyer,Any,Graduate School,Single,2,No
+90000,34302,Lawyer,Any,Graduate School,Single,2,No
+100000,40810,Lawyer,Any,Graduate School,Single,2,No
+260000,0,Lawyer,Any,Graduate School,Single,2,Yes
+390000,50620,Lawyer,Any,Graduate School,Single,2,No
+100000,29109,Lawyer,Any,Graduate School,Single,2,No
+360000,0,Lawyer,Any,Graduate School,Single,2,Yes
+200000,-5,Lawyer,Any,Graduate School,Single,2,No
+190000,115056,Lawyer,Any,Graduate School,Single,2,No
+250000,215316,Lawyer,Any,Graduate School,Single,2,No
+70000,2400,Lawyer,Any,Graduate School,Single,2,Yes
+250000,584,Lawyer,Any,Graduate School,Single,2,No
+290000,632,Lawyer,Any,Graduate School,Single,2,No
+30000,142,Lawyer,Any,Graduate School,Single,2,No
+150000,46272,Lawyer,Any,Graduate School,Single,2,No
+550000,43769,Lawyer,Any,Graduate School,Single,2,No
+130000,31179,Lawyer,Any,Graduate School,Single,2,No
+310000,35064,Lawyer,Any,Graduate School,Single,2,No
+200000,105420,Lawyer,Any,Graduate School,Single,2,No
+240000,12212,Lawyer,Any,Graduate School,Single,2,No
+180000,274731,Artist,Any,Graduate School,Married,2,No
+260000,49657,Artist,Any,Graduate School,Married,2,No
+110000,0,Artist,Any,Graduate School,Married,2,Yes
+230000,0,Artist,Any,Graduate School,Married,2,No
+260000,16426,Artist,Any,Graduate School,Married,2,No
+20000,15912,Artist,Any,Graduate School,Married,2,No
+130000,19161,Artist,Any,Graduate School,Married,2,Yes
+30000,16496,Artist,Any,Graduate School,Married,2,No
+360000,12339,Artist,Any,Graduate School,Married,2,No
+160000,5233,Artist,Any,Graduate School,Married,2,No
+270000,18751,Artist,Any,Graduate School,Married,2,No
+50000,34976,Artist,Any,Graduate School,Married,2,No
+230000,660,Artist,Any,Graduate School,Married,2,No
+320000,247276,Artist,Any,Graduate School,Married,2,No
+160000,316,Artist,Any,Graduate School,Married,2,No
+50000,47858,Artist,Any,Graduate School,Married,2,Yes
+700000,99259,Artist,Any,Graduate School,Married,2,No
+490000,4290,Artist,Any,Graduate School,Married,2,No
+200000,3877,Artist,Any,Graduate School,Married,2,No
+200000,0,Artist,Any,Graduate School,Married,2,No
+110000,8481,Artist,Any,Graduate School,Married,2,No
+200000,6206,Artist,Any,Graduate School,Married,2,Yes
+360000,0,Artist,Any,Graduate School,Married,2,Yes
+380000,6614,Artist,Any,Graduate School,Married,2,No
+360000,0,Artist,Any,Graduate School,Married,2,No
+210000,211749,Artist,Any,Graduate School,Married,2,No
+50000,8014,Artist,Any,Graduate School,Married,2,No
+150000,99855,Artist,Any,Graduate School,Married,2,No
+210000,76089,Artist,Any,Graduate School,Married,2,Yes
+360000,1761,Artist,Any,Graduate School,Married,2,No
+210000,0,Artist,Any,Graduate School,Married,2,No
+320000,291,Artist,Any,Graduate School,Married,2,Yes
+440000,4330,Artist,Any,Graduate School,Married,2,No
+150000,2977,Artist,Any,Graduate School,Married,2,Yes
+290000,7064,Artist,Any,Graduate School,Married,2,No
+200000,25663,Artist,Any,Graduate School,Married,2,No
+50000,33849,Artist,Any,Graduate School,Married,2,No
+300000,0,Artist,Any,Graduate School,Married,2,No
+500000,6057,Artist,Any,Graduate School,Married,2,No
+290000,98441,Artist,Any,Graduate School,Married,2,No
+100000,23070,Artist,Any,Graduate School,Married,2,No
+500000,35176,Artist,Any,Graduate School,Married,2,Yes
+450000,5512,Artist,Any,Graduate School,Married,2,Yes
+130000,81313,Artist,Any,Graduate School,Married,2,No
+460000,171,Artist,Any,Graduate School,Married,2,Yes
+30000,0,Artist,Any,Graduate School,Single,1,No
+200000,122923,Artist,Any,Graduate School,Single,1,No
+230000,30141,Artist,Any,Graduate School,Single,1,No
+180000,145403,Artist,Any,Graduate School,Single,1,No
+120000,884,Artist,Any,Graduate School,Single,1,No
+50000,2411,Artist,Any,Graduate School,Single,1,No
+80000,53261,Artist,Any,Graduate School,Single,1,No
+100000,96193,Artist,Any,Graduate School,Single,1,Yes
+230000,0,Artist,Any,Graduate School,Single,1,No
+140000,10833,Artist,Any,Graduate School,Single,1,No
+70000,55664,Artist,Any,Graduate School,Single,1,No
+140000,13424,Artist,Any,Graduate School,Single,1,No
+110000,1064,Artist,Any,Graduate School,Single,1,No
+90000,84710,Artist,Any,Graduate School,Single,1,No
+210000,11442,Artist,Any,Graduate School,Single,1,No
+100000,79580,Artist,Any,Graduate School,Single,1,Yes
+230000,0,Artist,Any,Graduate School,Single,1,No
+230000,6666,Artist,Any,Graduate School,Single,1,No
+50000,35084,Artist,Any,Graduate School,Single,1,No
+40000,11058,Artist,Any,Graduate School,Single,1,Yes
+320000,137574,Artist,Any,Graduate School,Single,1,No
+50000,4187,Artist,Any,Graduate School,Single,1,Yes
+360000,79837,Artist,Any,Graduate School,Single,1,No
+90000,86014,Artist,Any,Graduate School,Single,1,No
+140000,142428,Artist,Any,Graduate School,Single,1,No
+90000,22109,Artist,Any,Graduate School,Single,1,No
+130000,0,Artist,Any,Graduate School,Single,1,No
+50000,42543,Artist,Any,Graduate School,Single,1,No
+360000,15854,Artist,Any,Graduate School,Single,1,No
+150000,50,Artist,Any,Graduate School,Single,1,No
+70000,63903,Artist,Any,Graduate School,Single,1,No
+360000,279846,Artist,Any,Graduate School,Single,1,Yes
+140000,2937,Artist,Any,Graduate School,Single,1,No
+160000,2198,Artist,Any,Graduate School,Single,1,Yes
+60000,34735,Artist,Any,Graduate School,Single,1,No
+310000,36513,Artist,Any,Graduate School,Single,1,No
+20000,18738,Artist,Any,Graduate School,Single,1,No
+130000,3820,Artist,Any,Graduate School,Single,1,No
+60000,21501,Artist,Any,Graduate School,Single,1,No
+180000,169263,Artist,Any,Graduate School,Single,1,No
+120000,30101,Artist,Any,Graduate School,Single,1,No
+210000,1360,Artist,Any,Graduate School,Single,1,No
+20000,15829,Artist,Any,Graduate School,Single,1,No
+230000,416,Artist,Any,Graduate School,Single,1,No
+320000,55607,Artist,Any,Graduate School,Single,1,No
+340000,172180,Artist,Any,Graduate School,Single,1,No
+50000,586,Artist,Any,Graduate School,Single,1,Yes
+140000,14943,Artist,Any,Graduate School,Single,1,No
+20000,19990,Artist,Any,Graduate School,Single,1,No
+50000,34422,Artist,Any,Graduate School,Single,1,No
+80000,2673,Artist,Any,Graduate School,Single,1,No
+120000,316,Artist,Any,Graduate School,Single,1,No
+80000,81337,Artist,Any,Graduate School,Single,1,Yes
+200000,157607,Artist,Any,Graduate School,Single,1,No
+70000,71358,Artist,Any,Graduate School,Single,1,No
+50000,10532,Artist,Any,Graduate School,Single,1,Yes
+180000,23800,Artist,Any,Graduate School,Single,1,No
+20000,6274,Artist,Any,Graduate School,Single,1,No
+50000,629,Artist,Any,Graduate School,Single,1,No
+290000,232523,Artist,Any,Graduate School,Single,1,No
+120000,20874,Artist,Any,Graduate School,Single,1,No
+50000,50716,Artist,Any,Graduate School,Single,1,Yes
+240000,7744,Artist,Any,Graduate School,Single,1,No
+240000,240248,Artist,Any,Graduate School,Single,1,No
+40000,12308,Artist,Any,Graduate School,Single,1,No
+160000,70243,Artist,Any,Graduate School,Single,1,No
+50000,36794,Artist,Any,Graduate School,Single,1,Yes
+90000,1179,Artist,Any,Graduate School,Single,1,No
+50000,50963,Artist,Any,Graduate School,Single,1,No
+510000,78331,Artist,Any,Graduate School,Single,1,No
+290000,14931,Artist,Any,Graduate School,Single,1,No
+320000,179226,Artist,Any,Graduate School,Single,1,No
+100000,28383,Artist,Any,Graduate School,Single,1,Yes
+120000,79072,Artist,Any,Graduate School,Single,1,No
+190000,143464,Artist,Any,Graduate School,Single,1,No
+200000,4890,Artist,Any,Graduate School,Single,1,No
+120000,-8,Artist,Any,Graduate School,Single,1,No
+200000,18630,Artist,Any,Graduate School,Single,1,No
+310000,304329,Artist,Any,Graduate School,Single,1,No
+280000,0,Artist,Any,Graduate School,Single,1,No
+50000,41003,Artist,Any,Graduate School,Single,1,No
+70000,70119,Artist,Any,Graduate School,Single,1,No
+90000,32755,Artist,Any,Graduate School,Single,1,No
+80000,26524,Artist,Any,Graduate School,Single,1,No
+240000,25700,Artist,Any,Graduate School,Single,1,No
+20000,390,Artist,Any,Graduate School,Single,1,Yes
+180000,2049,Artist,Any,Graduate School,Single,1,No
+50000,47726,Artist,Any,Graduate School,Single,1,Yes
+70000,34985,Artist,Any,Graduate School,Single,1,Yes
+60000,14072,Artist,Any,Graduate School,Single,1,No
+180000,0,Artist,Any,Graduate School,Single,1,No
+90000,4744,Artist,Any,Graduate School,Single,1,No
+50000,0,Artist,Any,Graduate School,Single,1,Yes
+70000,67521,Artist,Any,Graduate School,Single,1,No
+210000,0,Artist,Any,Graduate School,Single,1,Yes
+210000,300,Artist,Any,Graduate School,Single,1,No
+80000,77024,Artist,Any,Graduate School,Single,1,Yes
+100000,-2000,Artist,Any,Graduate School,Single,1,No
+150000,17444,Artist,Any,Graduate School,Single,1,No
+80000,42444,Artist,Any,Graduate School,Single,1,No
+50000,-709,Artist,Any,Graduate School,Single,1,Yes
+60000,19625,Artist,Any,Graduate School,Single,1,Yes
+180000,11386,Artist,Any,Graduate School,Single,1,No
+400000,203,Teacher,Any,Graduate School,Single,2,No
+120000,1278,Teacher,Any,Graduate School,Single,2,No
+220000,212795,Teacher,Any,Graduate School,Single,2,Yes
+50000,7363,Teacher,Any,Graduate School,Single,2,No
+160000,396,Teacher,Any,Graduate School,Single,2,No
+120000,0,Teacher,Any,Graduate School,Single,2,Yes
+500000,45106,Teacher,Any,Graduate School,Single,2,Yes
+20000,10934,Teacher,Any,Graduate School,Single,2,No
+230000,164634,Teacher,Any,Graduate School,Single,2,No
+430000,29860,Teacher,Any,Graduate School,Single,2,No
+150000,0,Teacher,Any,Graduate School,Single,2,No
+240000,15432,Teacher,Any,Graduate School,Single,2,No
+50000,47853,Teacher,Any,Graduate School,Single,2,Yes
+500000,5379,Teacher,Any,Graduate School,Single,2,No
+270000,0,Teacher,Any,Graduate School,Single,2,No
+390000,85538,Teacher,Any,Graduate School,Single,2,No
+20000,264,Teacher,Any,Graduate School,Single,2,No
+140000,1034,Teacher,Any,Graduate School,Single,2,No
+220000,203101,Teacher,Any,Graduate School,Single,2,Yes
+200000,197236,Teacher,Any,Graduate School,Single,2,No
+120000,882,Teacher,Any,Graduate School,Single,2,No
+80000,0,Engineer,Any,Graduate School,Single,1,No
+500000,31421,Engineer,Any,Graduate School,Single,1,No
+200000,4935,Engineer,Any,Graduate School,Single,1,No
+170000,131864,Engineer,Any,Graduate School,Single,1,Yes
+50000,7010,Engineer,Any,Graduate School,Single,1,No
+160000,146433,Engineer,Any,Graduate School,Single,1,No
+360000,-8,Engineer,Any,Graduate School,Single,1,No
+670000,244663,Engineer,Any,Graduate School,Single,1,No
+180000,950,Engineer,Any,Graduate School,Single,1,No
+50000,49946,Engineer,Any,Graduate School,Single,1,No
+80000,16936,Engineer,Any,Graduate School,Single,1,Yes
+150000,0,Engineer,Any,Graduate School,Single,1,No
+60000,60381,Engineer,Any,Graduate School,Single,1,No
+160000,13234,Engineer,Any,Graduate School,Single,1,No
+150000,6708,Engineer,Any,Graduate School,Single,1,No
+150000,1111,Engineer,Any,Graduate School,Single,1,Yes
+200000,16093,Engineer,Any,Graduate School,Single,1,No
+80000,0,Engineer,Any,Graduate School,Single,1,No
+200000,156786,Engineer,Any,Graduate School,Single,1,No
+10000,499,Engineer,Any,Graduate School,Single,1,Yes
+90000,88345,Engineer,Any,Graduate School,Single,1,No
+130000,-2000,Engineer,Any,Graduate School,Single,1,Yes
+250000,70887,Engineer,Any,Graduate School,Single,1,No
+30000,1512,Engineer,Any,Graduate School,Single,1,No
+50000,50801,Engineer,Any,Graduate School,Single,1,No
+20000,1199,Engineer,Any,Graduate School,Single,1,No
+60000,29649,Engineer,Any,Graduate School,Single,1,No
+50000,30400,Engineer,Any,Graduate School,Married,2,No
+220000,996,Engineer,Any,Graduate School,Married,2,No
+400000,1107,Engineer,Any,Graduate School,Married,2,No
+280000,58983,Engineer,Any,Graduate School,Married,2,No
+200000,123337,Engineer,Any,Graduate School,Married,2,No
+300000,8385,Engineer,Any,Graduate School,Married,2,No
+360000,40434,Engineer,Any,Graduate School,Married,2,No
+50000,42549,Engineer,Any,Graduate School,Married,2,No
+70000,51959,Engineer,Any,Graduate School,Married,2,No
+200000,2552,Engineer,Any,Graduate School,Married,2,No
+360000,780,Engineer,Any,Graduate School,Married,2,Yes
+250000,141223,Engineer,Any,Graduate School,Married,2,No
+500000,412,Engineer,Any,Graduate School,Married,2,No
+110000,92610,Doctor,Any,Graduate School,Single,4,Yes
+300000,93738,Doctor,Any,Graduate School,Single,4,Yes
+70000,43048,Doctor,Any,Graduate School,Single,4,No
+360000,0,Doctor,Any,Graduate School,Single,1,No
+60000,546,Doctor,Any,Graduate School,Single,1,Yes
+40000,26461,Doctor,Any,Graduate School,Single,1,Yes
+50000,49860,Doctor,Any,Graduate School,Single,1,No
+20000,11968,Doctor,Any,Graduate School,Single,1,Yes
+200000,871,Doctor,Any,Graduate School,Single,1,No
+60000,20847,Doctor,Any,Graduate School,Single,1,No
+140000,9305,Doctor,Any,Graduate School,Single,1,Yes
+200000,194241,Doctor,Any,Graduate School,Single,1,No
+460000,410033,Doctor,Any,Graduate School,Single,1,No
+50000,8537,Doctor,Any,Graduate School,Single,1,No
+50000,13801,Doctor,Any,Graduate School,Single,1,No
+170000,1560,Doctor,Any,Graduate School,Single,1,No
+90000,13141,Doctor,Any,Graduate School,Single,1,Yes
+70000,48432,Doctor,Any,Graduate School,Single,1,No
+40000,28926,Doctor,Any,Graduate School,Single,1,Yes
+140000,0,Doctor,Any,Graduate School,Single,1,Yes
+160000,1433,Doctor,Any,Graduate School,Single,1,No
+90000,81111,Doctor,Any,Graduate School,Single,1,No
+90000,39128,Doctor,Any,Graduate School,Single,1,No
+80000,2109,Doctor,Any,Graduate School,Single,1,No
+90000,7624,Doctor,Any,Graduate School,Single,1,No
+140000,142087,Doctor,Any,Graduate School,Single,1,No
+130000,84664,Doctor,Any,Graduate School,Single,1,No
+30000,25265,Doctor,Any,Graduate School,Single,1,No
+50000,50380,Doctor,Any,Graduate School,Single,1,No
+440000,169661,Doctor,Any,Graduate School,Single,1,No
+140000,0,Doctor,Any,Graduate School,Single,1,No
+50000,15036,Doctor,Any,Graduate School,Single,1,No
+230000,16646,Doctor,Any,Graduate School,Single,1,No
+20000,17246,Doctor,Any,Graduate School,Single,1,No
+200000,12716,Doctor,Any,Graduate School,Single,1,No
+380000,0,Lawyer,Any,Graduate School,Single,1,Yes
+180000,666,Lawyer,Any,Graduate School,Single,1,No
+30000,26847,Lawyer,Any,Graduate School,Single,1,No
+280000,191493,Lawyer,Any,Graduate School,Single,1,No
+150000,10705,Lawyer,Any,Graduate School,Single,1,No
+390000,386301,Lawyer,Any,Graduate School,Single,1,No
+100000,55734,Lawyer,Any,Graduate School,Single,1,No
+110000,92849,Lawyer,Any,Graduate School,Single,1,No
+130000,4536,Lawyer,Any,Graduate School,Single,1,No
+210000,0,Lawyer,Any,Graduate School,Single,1,Yes
+110000,107195,Lawyer,Any,Graduate School,Single,1,No
+150000,108817,Lawyer,Any,Graduate School,Single,1,Yes
+60000,58839,Lawyer,Any,Graduate School,Single,1,No
+150000,44795,Lawyer,Any,Graduate School,Single,1,Yes
+230000,105217,Lawyer,Any,Graduate School,Single,1,No
+190000,46923,Lawyer,Any,Graduate School,Single,1,Yes
+50000,36806,Lawyer,Any,Graduate School,Single,1,No
+50000,5137,Lawyer,Any,Graduate School,Single,1,No
+220000,221268,Lawyer,Any,Graduate School,Single,1,Yes
+120000,10172,Lawyer,Any,Graduate School,Single,1,No
+60000,15380,Lawyer,Any,Graduate School,Single,1,No
+150000,46224,Lawyer,Any,Graduate School,Single,1,No
+150000,86009,Lawyer,Any,Graduate School,Single,1,No
+100000,53494,Lawyer,Any,Graduate School,Single,1,No
+180000,14670,Lawyer,Any,Graduate School,Single,1,No
+450000,11343,Artist,Any,Graduate School,Single,3,No
+190000,28204,Artist,Any,Graduate School,Single,3,Yes
+200000,470,Artist,Any,Graduate School,Single,3,No
+220000,44177,Artist,Any,Graduate School,Single,3,No
+150000,1464,Artist,Any,Graduate School,Single,3,Yes
+380000,350341,Artist,Any,Graduate School,Single,3,No
+50000,50893,Artist,Any,Graduate School,Single,3,No
+260000,316,Artist,Any,Graduate School,Single,3,No
+40000,34871,Artist,Any,Graduate School,Single,3,No
+30000,24357,Artist,Any,Graduate School,Single,3,No
+30000,28033,Shopkeeper,Any,Graduate School,Married,3,No
+260000,1086,Shopkeeper,Any,Graduate School,Married,3,No
+230000,6865,Shopkeeper,Any,Graduate School,Married,3,No
+270000,1250,Shopkeeper,Any,Graduate School,Married,3,No
+160000,53935,Shopkeeper,Any,Graduate School,Married,3,No
+360000,390,Shopkeeper,Any,Graduate School,Married,3,Yes
+350000,148341,Broker,Any,Graduate School,Single,2,No
+410000,5335,Broker,Any,Graduate School,Single,2,No
+200000,38635,Broker,Any,Graduate School,Single,2,No
+500000,2450,Broker,Any,Graduate School,Single,2,No
+360000,389,Broker,Any,Graduate School,Single,2,No
+160000,16922,Broker,Any,Graduate School,Single,2,No
+200000,67002,Broker,Any,Graduate School,Single,2,No
+250000,33323,Broker,Any,Graduate School,Single,2,No
+300000,40779,Broker,Any,Graduate School,Single,2,No
+140000,652,Broker,Any,Graduate School,Single,2,Yes
+440000,330759,Broker,Any,Graduate School,Single,2,No
+200000,0,Broker,Any,Graduate School,Single,2,Yes
+80000,7988,Broker,Any,Graduate School,Single,2,No
+170000,1561,Broker,Any,Graduate School,Single,2,No
+260000,0,Broker,Any,Graduate School,Single,2,No
+50000,23974,Broker,Any,Graduate School,Single,2,No
+80000,0,Broker,Any,Graduate School,Single,2,Yes
+140000,27123,Broker,Any,Graduate School,Single,2,No
+360000,2616,Broker,Any,Graduate School,Single,2,No
+270000,256402,Artist,Any,Graduate School,Married,3,No
+300000,11973,Artist,Any,Graduate School,Married,3,Yes
+350000,54969,Artist,Any,Graduate School,Married,3,No
+260000,1215,Artist,Any,Graduate School,Married,3,Yes
+500000,140,Artist,Any,Graduate School,Married,3,No
+290000,194301,Artist,Any,Graduate School,Married,3,No
+250000,17454,Artist,Any,Graduate School,Married,3,No
+360000,179851,Artist,Any,Graduate School,Married,3,No
+180000,4453,Artist,Any,Graduate School,Married,3,No
+220000,0,Artist,Any,Graduate School,Married,3,Yes
+390000,15026,Artist,Any,Graduate School,Married,3,No
+140000,39716,Artist,Any,Graduate School,Married,3,No
+170000,0,Artist,Any,Graduate School,Married,3,No
+180000,173267,Artist,Any,Graduate School,Married,3,No
+330000,2246,Artist,Any,Graduate School,Married,3,No
+450000,697,Artist,Any,Graduate School,Married,3,No
+160000,117126,Artist,Any,Graduate School,Married,3,No
+260000,0,Artist,Any,Graduate School,Married,3,No
+500000,407331,Artist,Any,Graduate School,Married,3,No
+360000,92961,Artist,Any,Graduate School,Married,3,No
+120000,20877,Artist,Any,Graduate School,Married,3,No
+200000,19318,Artist,Any,Graduate School,Married,3,No
+310000,14619,Artist,Any,Graduate School,Married,3,No
+50000,508,Artist,Any,Graduate School,Married,3,No
+360000,1548,Artist,Any,Graduate School,Married,3,No
+300000,291,Artist,Any,Graduate School,Married,3,No
+280000,28026,Artist,Any,Graduate School,Married,3,No
+500000,0,Artist,Any,Graduate School,Married,3,Yes
+610000,142764,Artist,Any,Graduate School,Single,2,No
+680000,18314,Artist,Any,Graduate School,Single,2,No
+370000,929,Artist,Any,Graduate School,Single,2,No
+210000,291,Artist,Any,Graduate School,Single,2,No
+150000,45000,Artist,Any,Graduate School,Single,2,No
+180000,3139,Artist,Any,Graduate School,Single,2,No
+260000,0,Artist,Any,Graduate School,Single,2,No
+470000,5613,Artist,Any,Graduate School,Single,2,No
+300000,0,Artist,Any,Graduate School,Single,2,Yes
+100000,33752,Artist,Any,Graduate School,Single,2,Yes
+350000,10900,Artist,Any,Graduate School,Single,2,No
+290000,413,Artist,Any,Graduate School,Single,2,Yes
+230000,761,Artist,Any,Graduate School,Single,2,No
+280000,-32,Artist,Any,Graduate School,Single,2,No
+230000,44734,Artist,Any,Graduate School,Single,2,No
+180000,10737,Artist,Any,Graduate School,Single,2,No
+70000,70524,Artist,Any,Graduate School,Single,2,No
+150000,390,Artist,Any,Graduate School,Single,2,Yes
+70000,70971,Artist,Any,Graduate School,Single,2,Yes
+500000,-312,Artist,Any,Graduate School,Single,2,Yes
+220000,0,Artist,Any,Graduate School,Single,2,No
+300000,2166,Artist,Any,Graduate School,Single,2,No
+200000,0,Artist,Any,Graduate School,Single,2,No
+440000,0,Artist,Any,Graduate School,Single,2,No
+230000,1545,Artist,Any,Graduate School,Single,2,No
+230000,224020,Artist,Any,Graduate School,Single,2,No
+180000,2217,Artist,Any,Graduate School,Single,2,No
+360000,0,Artist,Any,Graduate School,Single,2,No
+90000,90922,Artist,Any,Graduate School,Single,2,No
+200000,-800,Artist,Any,Graduate School,Single,2,No
+150000,96066,Artist,Any,Graduate School,Single,2,No
+80000,10115,Artist,Any,Graduate School,Single,2,No
+210000,161159,Artist,Any,Graduate School,Single,2,No
+110000,12633,Artist,Any,Graduate School,Single,2,No
+300000,264,Artist,Any,Graduate School,Single,2,No
+350000,4439,Artist,Any,Graduate School,Single,2,No
+360000,218668,Artist,Any,Graduate School,Single,2,No
+200000,1587,Artist,Any,Graduate School,Single,2,No
+140000,672,Artist,Any,Graduate School,Single,2,No
+300000,43610,Artist,Any,Graduate School,Single,2,No
+200000,100,Artist,Any,Graduate School,Single,2,No
+310000,59901,Artist,Any,Graduate School,Single,2,No
+270000,5780,Dealer,Any,Graduate School,Single,2,No
+630000,440474,Dealer,Any,Graduate School,Single,2,No
+200000,2159,Dealer,Any,Graduate School,Single,2,No
+110000,108316,Dealer,Any,Graduate School,Single,2,No
+360000,356913,Dealer,Any,Graduate School,Single,2,No
+420000,1569,Dealer,Any,Graduate School,Single,2,No
+200000,6618,Dealer,Any,Graduate School,Single,2,No
+160000,83255,Dealer,Any,Graduate School,Single,2,No
+280000,898,Dealer,Any,Graduate School,Single,2,Yes
+80000,1927,Dealer,Any,Graduate School,Single,2,No
+50000,47174,Dealer,Any,Graduate School,Single,2,No
+500000,172041,Dealer,Any,Graduate School,Single,2,No
+360000,0,Dealer,Any,Graduate School,Single,2,No
+170000,4334,Dealer,Any,Graduate School,Single,2,Yes
+400000,385,Dealer,Any,Graduate School,Single,2,No
+180000,666,Dealer,Any,Graduate School,Single,2,No
+510000,2115,Dealer,Any,Graduate School,Single,2,No
+540000,1784,Dealer,Any,Graduate School,Single,2,No
+210000,1440,Dealer,Any,Graduate School,Single,2,No
+280000,164736,Dealer,Any,Graduate School,Single,2,No
+100000,93036,Dealer,Any,Graduate School,Single,2,No
+50000,27245,Shopkeeper,Any,Graduate School,Single,1,No
+360000,7071,Shopkeeper,Any,Graduate School,Single,1,No
+280000,270276,Shopkeeper,Any,Graduate School,Single,1,No
+200000,2179,Shopkeeper,Any,Graduate School,Single,1,No
+160000,99,Shopkeeper,Any,Graduate School,Single,1,No
+50000,0,Shopkeeper,Any,Graduate School,Single,1,No
+20000,1371,Shopkeeper,Any,Graduate School,Single,1,No
+200000,65935,Shopkeeper,Any,Graduate School,Single,1,Yes
+30000,3924,Shopkeeper,Any,Graduate School,Single,1,No
+30000,28207,Shopkeeper,Any,Graduate School,Single,1,Yes
+220000,105607,Shopkeeper,Any,Graduate School,Single,1,No
+230000,63184,Shopkeeper,Any,Graduate School,Single,1,No
+500000,204198,Shopkeeper,Any,Graduate School,Single,1,No
+70000,-54,Shopkeeper,Any,Graduate School,Single,1,No
+30000,3019,Shopkeeper,Any,Graduate School,Single,1,No
+50000,46176,Shopkeeper,Any,Graduate School,Single,1,No
+120000,52437,Shopkeeper,Any,Graduate School,Single,1,No
+160000,3097,Shopkeeper,Any,Graduate School,Single,1,No
+20000,0,Shopkeeper,Any,Graduate School,Single,1,No
+330000,58667,Shopkeeper,Any,Graduate School,Single,1,No
+150000,11109,Shopkeeper,Any,Graduate School,Single,1,No
+130000,22415,Shopkeeper,Any,Graduate School,Single,1,No
+330000,46140,Shopkeeper,Any,Graduate School,Single,1,No
+160000,160432,Shopkeeper,Any,Graduate School,Single,1,Yes
+360000,139762,Shopkeeper,Any,Graduate School,Single,1,No
+300000,1314,Shopkeeper,Any,Graduate School,Single,1,Yes
+100000,90118,Shopkeeper,Any,Graduate School,Single,1,No
+40000,18927,Shopkeeper,Any,Graduate School,Single,1,No
+50000,4999,Shopkeeper,Any,Graduate School,Single,1,No
+30000,0,Shopkeeper,Any,Graduate School,Single,1,No
+110000,101640,Shopkeeper,Any,Graduate School,Single,1,No
+300000,688,Shopkeeper,Any,Graduate School,Single,1,No
+80000,6187,Shopkeeper,Any,Graduate School,Single,1,No
+270000,475,Broker,Any,Graduate School,Single,1,No
+20000,14603,Broker,Any,Graduate School,Single,1,No
+60000,10540,Broker,Any,Graduate School,Single,1,No
+110000,44278,Broker,Any,Graduate School,Single,1,No
+50000,2087,Broker,Any,Graduate School,Single,1,No
+30000,2635,Broker,Any,Graduate School,Single,1,No
+150000,191,Broker,Any,Graduate School,Single,1,No
+60000,29332,Broker,Any,Graduate School,Single,1,Yes
+110000,40882,Broker,Any,Graduate School,Single,1,No
+150000,0,Broker,Any,Graduate School,Single,1,No
+90000,491,Broker,Any,Graduate School,Single,1,No
+90000,56608,Broker,Any,Graduate School,Single,1,No
+320000,113801,Broker,Any,Graduate School,Single,1,No
+30000,23447,Broker,Any,Graduate School,Single,1,Yes
+20000,7919,Broker,Any,Graduate School,Single,1,Yes
+180000,0,Broker,Any,Graduate School,Single,1,No
+80000,60130,Broker,Any,Graduate School,Single,1,No
+110000,48088,Broker,Any,Graduate School,Single,1,No
+240000,3093,Broker,Any,Graduate School,Single,1,No
+260000,156882,Broker,Any,Graduate School,Single,1,No
+310000,1544,Broker,Any,Graduate School,Single,1,No
+60000,11862,Broker,Any,Graduate School,Single,1,No
+230000,40732,Broker,Any,Graduate School,Single,1,No
+180000,11392,Broker,Any,Graduate School,Single,1,Yes
+200000,71989,Broker,Any,Graduate School,Single,1,No
+100000,30092,Broker,Any,Graduate School,Single,1,No
+60000,15050,Broker,Any,Graduate School,Single,1,No
+20000,15376,Broker,Any,Graduate School,Single,1,Yes
+50000,15329,Broker,Any,Graduate School,Single,1,No
+180000,41402,Broker,Any,Graduate School,Single,1,No
+150000,0,Broker,Any,Graduate School,Single,1,No
+30000,4000,Broker,Any,Graduate School,Single,1,No
+80000,8766,Broker,Any,Graduate School,Single,1,No
+360000,0,Broker,Any,Graduate School,Single,1,No
+50000,47054,Broker,Any,Graduate School,Single,1,Yes
+200000,-200,Engineer,Any,Graduate School,Single,2,No
+170000,764,Engineer,Any,Graduate School,Single,2,No
+310000,1424,Engineer,Any,Graduate School,Single,2,No
+360000,71195,Engineer,Any,Graduate School,Single,2,No
+150000,21724,Engineer,Any,Graduate School,Single,2,No
+240000,11874,Engineer,Any,Graduate School,Single,2,No
+120000,77785,Engineer,Any,Graduate School,Single,2,No
+280000,168382,Engineer,Any,Graduate School,Single,2,No
+330000,1663,Engineer,Any,Graduate School,Single,2,No
+120000,-284,Engineer,Any,Graduate School,Single,2,No
+230000,2283,Engineer,Any,Graduate School,Single,2,No
+120000,24466,Engineer,Any,Graduate School,Single,2,No
+110000,32691,Engineer,Any,Graduate School,Single,2,No
+390000,6466,Engineer,Any,Graduate School,Single,2,No
+280000,498,Engineer,Any,Graduate School,Single,2,No
+80000,780,Engineer,Any,Graduate School,Single,2,No
+340000,3048,Engineer,Any,Graduate School,Single,2,No
+280000,7524,Engineer,Any,Graduate School,Single,2,No
+200000,5023,Shopkeeper,Any,Graduate School,Married,2,No
+30000,220,Shopkeeper,Any,Graduate School,Married,2,No
+140000,4036,Shopkeeper,Any,Graduate School,Married,2,No
+50000,46750,Shopkeeper,Any,Graduate School,Married,2,No
+130000,6348,Shopkeeper,Any,Graduate School,Married,2,Yes
+320000,65083,Shopkeeper,Any,Graduate School,Married,2,No
+150000,0,Shopkeeper,Any,Graduate School,Married,2,No
+500000,600,Shopkeeper,Any,Graduate School,Married,2,No
+300000,25239,Shopkeeper,Any,Graduate School,Married,2,No
+100000,57612,Shopkeeper,Any,Graduate School,Married,2,No
+580000,159760,Shopkeeper,Any,Graduate School,Married,2,No
+500000,294827,Shopkeeper,Any,Graduate School,Married,2,No
+280000,5310,Dealer,Any,Graduate School,Married,2,No
+270000,264,Dealer,Any,Graduate School,Married,2,Yes
+60000,8308,Dealer,Any,Graduate School,Married,2,No
+160000,14150,Dealer,Any,Graduate School,Married,2,No
+220000,75190,Dealer,Any,Graduate School,Married,2,No
+160000,710,Dealer,Any,Graduate School,Married,2,No
+210000,0,Dealer,Any,Graduate School,Married,2,Yes
+50000,27966,Dealer,Any,Graduate School,Married,2,No
+330000,105879,Dealer,Any,Graduate School,Married,2,No
+180000,750,Dealer,Any,Graduate School,Married,2,No
+280000,7791,Dealer,Any,Graduate School,Married,2,Yes
+150000,0,Broker,Any,Graduate School,Married,2,No
+330000,4785,Broker,Any,Graduate School,Married,2,No
+210000,17420,Broker,Any,Graduate School,Married,2,No
+210000,0,Broker,Any,Graduate School,Married,2,Yes
+200000,8432,Broker,Any,Graduate School,Married,2,No
+360000,105167,Broker,Any,Graduate School,Married,2,Yes
+200000,2257,Broker,Any,Graduate School,Married,2,No
+320000,325445,Broker,Any,Graduate School,Married,2,No
+220000,3785,Broker,Any,Graduate School,Married,2,No
+200000,190,Broker,Any,Graduate School,Married,2,No
+200000,0,Broker,Any,Graduate School,Married,2,No
+200000,9918,Broker,Any,Graduate School,Married,2,No
+180000,163736,Broker,Any,Graduate School,Married,2,Yes
+200000,192461,Dealer,Any,Graduate School,Married,4,No
+230000,208459,Dealer,Any,Graduate School,Married,4,Yes
+180000,46122,Dealer,Any,Graduate School,Married,4,No
+30000,15743,Artist,Any,Graduate School,Married,4,No
+200000,195050,Artist,Any,Graduate School,Married,4,No
+380000,0,Artist,Any,Graduate School,Married,4,Yes
+120000,390,Artist,Any,Graduate School,Married,4,Yes
+290000,279610,Artist,Any,Graduate School,Married,4,Yes
+140000,56764,Artist,Any,Graduate School,Married,4,No
+160000,79244,Artist,Any,Graduate School,Married,4,Yes
+200000,152519,Artist,Any,Graduate School,Married,4,Yes
+350000,2400,Artist,Any,Graduate School,Married,4,Yes
+260000,-1100,Artist,Any,Graduate School,Married,4,No
+70000,60040,Teacher,Any,Graduate School,Married,3,No
+300000,120151,Teacher,Any,Graduate School,Married,3,No
+220000,-65,Teacher,Any,Graduate School,Married,3,Yes
+340000,1960,Teacher,Any,Graduate School,Married,3,No
+100000,9122,Teacher,Any,Graduate School,Married,3,No
+100000,390,Teacher,Any,Graduate School,Married,3,No
+110000,0,Teacher,Any,Graduate School,Married,3,No
+500000,56422,Teacher,Any,Graduate School,Married,3,No
+200000,194353,Doctor,Any,Graduate School,Single,2,No
+230000,117277,Doctor,Any,Graduate School,Single,2,No
+450000,10350,Doctor,Any,Graduate School,Single,2,Yes
+50000,22746,Doctor,Any,Graduate School,Single,2,No
+170000,199,Doctor,Any,Graduate School,Single,2,Yes
+180000,22121,Doctor,Any,Graduate School,Single,2,No
+500000,386405,Doctor,Any,Graduate School,Single,2,No
+450000,29747,Doctor,Any,Graduate School,Single,2,No
+210000,67374,Doctor,Any,Graduate School,Single,2,No
+250000,130360,Doctor,Any,Graduate School,Single,2,No
+140000,-5,Doctor,Any,Graduate School,Single,2,No
+290000,0,Doctor,Any,Graduate School,Single,2,No
+150000,45335,Doctor,Any,Graduate School,Single,2,No
+90000,6546,Doctor,Any,Graduate School,Single,2,No
+500000,22369,Doctor,Any,Graduate School,Single,2,No
+170000,74298,Teacher,Any,Graduate School,Married,2,Yes
+360000,10729,Teacher,Any,Graduate School,Married,2,No
+130000,129689,Teacher,Any,Graduate School,Married,2,No
+150000,0,Teacher,Any,Graduate School,Married,2,Yes
+230000,4259,Teacher,Any,Graduate School,Married,2,No
+160000,4473,Teacher,Any,Graduate School,Married,2,No
+390000,164418,Teacher,Any,Graduate School,Married,2,No
+50000,49828,Teacher,Any,Graduate School,Single,1,Yes
+240000,156362,Teacher,Any,Graduate School,Single,1,No
+20000,19760,Teacher,Any,Graduate School,Single,1,No
+190000,31061,Teacher,Any,Graduate School,Single,1,No
+90000,10750,Teacher,Any,Graduate School,Single,1,No
+130000,2343,Teacher,Any,Graduate School,Single,1,No
+80000,10439,Teacher,Any,Graduate School,Single,1,No
+390000,304867,Teacher,Any,Graduate School,Single,1,Yes
+290000,578,Teacher,Any,Graduate School,Single,1,No
+30000,19801,Teacher,Any,Graduate School,Single,1,No
+200000,55788,Teacher,Any,Graduate School,Single,1,No
+20000,6733,Teacher,Any,Graduate School,Single,1,No
+140000,149389,Teacher,Any,Graduate School,Single,1,No
+500000,367965,Teacher,Any,Graduate School,Single,1,No
+60000,-109,Teacher,Any,Graduate School,Single,1,Yes
+160000,30265,Teacher,Any,Graduate School,Single,1,No
+20000,14028,Teacher,Any,Graduate School,Single,1,Yes
+20000,17447,Teacher,Any,Graduate School,Single,1,No
+360000,23411,Teacher,Any,Graduate School,Single,1,No
+360000,20223,Teacher,Any,Graduate School,Single,1,No
+360000,1210,Teacher,Any,Graduate School,Single,1,Yes
+320000,2007,Teacher,Any,Graduate School,Single,1,No
+20000,416,Teacher,Any,Graduate School,Single,1,Yes
+50000,49459,Teacher,Any,Graduate School,Single,1,No
+290000,0,Teacher,Any,Graduate School,Single,1,Yes
+60000,57174,Teacher,Any,Graduate School,Single,1,No
+20000,20571,Teacher,Any,Graduate School,Single,1,No
+160000,0,Teacher,Any,Graduate School,Single,1,No
+50000,36166,Teacher,Any,Graduate School,Single,1,Yes
+340000,185268,Lawyer,Any,Graduate School,Married,2,No
+200000,1242,Lawyer,Any,Graduate School,Married,2,No
+150000,0,Lawyer,Any,Graduate School,Married,2,Yes
+120000,1082,Lawyer,Any,Graduate School,Married,2,No
+140000,123049,Lawyer,Any,Graduate School,Married,2,No
+200000,6186,Lawyer,Any,Graduate School,Married,2,Yes
+390000,0,Lawyer,Any,Graduate School,Married,2,No
+450000,0,Lawyer,Any,Graduate School,Married,2,Yes
+350000,0,Lawyer,Any,Graduate School,Married,2,No
+130000,64942,Lawyer,Any,Graduate School,Married,2,Yes
+200000,267,Lawyer,Any,Graduate School,Married,2,No
+180000,153099,Lawyer,Any,Graduate School,Married,2,No
+260000,1131,Teacher,Any,Graduate School,Married,1,Yes
+30000,12897,Teacher,Any,Graduate School,Married,1,Yes
+360000,38000,Teacher,Any,Graduate School,Married,1,No
+310000,316,Broker,Any,Graduate School,Married,3,No
+180000,66114,Broker,Any,Graduate School,Married,3,No
+200000,144678,Broker,Any,Graduate School,Married,3,No
+200000,7812,Broker,Any,Graduate School,Married,3,No
+300000,6608,Broker,Any,Graduate School,Married,3,Yes
+200000,43515,Shopkeeper,Any,Graduate School,Single,2,No
+90000,80919,Shopkeeper,Any,Graduate School,Single,2,No
+200000,7184,Shopkeeper,Any,Graduate School,Single,2,No
+80000,5994,Shopkeeper,Any,Graduate School,Single,2,No
+460000,386437,Shopkeeper,Any,Graduate School,Single,2,No
+260000,1891,Shopkeeper,Any,Graduate School,Single,2,No
+50000,64400,Shopkeeper,Any,Graduate School,Single,2,No
+200000,399,Shopkeeper,Any,Graduate School,Single,2,No
+300000,19357,Shopkeeper,Any,Graduate School,Single,2,No
+100000,83831,Shopkeeper,Any,Graduate School,Single,2,No
+400000,60125,Shopkeeper,Any,Graduate School,Single,2,No
+50000,37774,Shopkeeper,Any,Graduate School,Single,2,No
+200000,830,Broker,Any,Graduate School,Single,3,No
+50000,50486,Broker,Any,Graduate School,Single,3,No
+350000,208,Broker,Any,Graduate School,Single,3,No
+30000,16039,Broker,Any,Graduate School,Single,3,Yes
+210000,0,Engineer,Any,Graduate School,Married,3,Yes
+300000,0,Engineer,Any,Graduate School,Married,3,Yes
+360000,3967,Engineer,Any,Graduate School,Married,3,No
+250000,66,Engineer,Any,Graduate School,Married,3,No
+180000,2788,Engineer,Any,Graduate School,Married,3,No
+100000,0,Engineer,Any,Graduate School,Married,3,No
+180000,8657,Teacher,Any,Graduate School,Single,3,No
+500000,30439,Teacher,Any,Graduate School,Single,3,Yes
+240000,95,Teacher,Any,Graduate School,Single,3,No
+20000,0,Doctor,Any,High School,Single,2,No
+200000,11073,Doctor,Any,High School,Single,2,No
+210000,0,Doctor,Any,High School,Single,2,No
+120000,776,Doctor,Any,High School,Single,2,Yes
+50000,47620,Doctor,Any,High School,Single,1,No
+110000,85918,Doctor,Any,High School,Single,1,No
+60000,58819,Doctor,Any,High School,Single,1,No
+70000,37042,Shopkeeper,Any,High School,Single,3,Yes
+330000,335196,Shopkeeper,Any,High School,Single,3,No
+100000,94925,Shopkeeper,Any,High School,Single,3,No
+30000,1445,Shopkeeper,Any,High School,Single,3,No
+130000,-190,Artist,Any,High School,Single,1,No
+50000,44698,Artist,Any,High School,Single,1,Yes
+20000,19154,Artist,Any,High School,Single,1,No
+10000,6974,Artist,Any,High School,Single,1,No
+230000,550,Artist,Any,High School,Single,1,No
+50000,43979,Artist,Any,High School,Single,1,No
+140000,42897,Artist,Any,High School,Single,1,Yes
+150000,1723,Artist,Any,High School,Single,1,No
+20000,19624,Artist,Any,High School,Single,1,Yes
+70000,68970,Artist,Any,High School,Single,1,No
+300000,-140,Artist,Any,High School,Single,1,Yes
+80000,71661,Artist,Any,High School,Single,1,No
+30000,4882,Artist,Any,High School,Single,1,No
+50000,22541,Artist,Any,High School,Single,1,No
+50000,0,Artist,Any,High School,Single,1,No
+20000,14562,Artist,Any,High School,Single,1,No
+180000,129719,Artist,Any,High School,Single,1,No
+50000,12854,Broker,Any,High School,Married,4,No
+360000,16230,Broker,Any,High School,Married,4,No
+50000,49017,Broker,Any,High School,Married,4,No
+50000,50356,Broker,Any,High School,Married,4,No
+50000,49003,Broker,Any,High School,Married,4,No
+70000,67864,Broker,Any,High School,Married,4,No
+20000,227,Lawyer,Any,High School,Married,3,No
+70000,21024,Lawyer,Any,High School,Married,3,Yes
+50000,13473,Lawyer,Any,High School,Married,3,Yes
+250000,1170,Lawyer,Any,High School,Married,3,No
+100000,61559,Artist,Any,High School,Single,3,No
+20000,9551,Artist,Any,High School,Single,3,Yes
+200000,203183,Artist,Any,High School,Single,3,No
+110000,56700,Artist,Any,High School,Single,3,No
+200000,4430,Artist,Any,High School,Single,3,No
+90000,64762,Artist,Any,High School,Single,3,Yes
+500000,10889,Artist,Any,High School,Single,3,No
+180000,4148,Artist,Any,High School,Single,3,No
+20000,8583,Artist,Any,High School,Single,3,No
+210000,5816,Artist,Any,High School,Single,3,Yes
+340000,142836,Artist,Any,High School,Single,3,Yes
+30000,0,Artist,Any,High School,Single,3,No
+60000,43533,Artist,Any,High School,Single,3,No
+20000,18768,Artist,Any,High School,Single,3,No
+10000,4908,Artist,Any,High School,Single,3,No
+200000,52439,Doctor,Any,High School,Married,3,Yes
+240000,234205,Doctor,Any,High School,Married,3,Yes
+30000,17187,Doctor,Any,High School,Married,3,No
+130000,109006,Doctor,Any,High School,Married,3,No
+30000,22987,Lawyer,Any,High School,Single,4,No
+30000,1598,Lawyer,Any,High School,Single,4,Yes
+140000,100594,Teacher,Any,High School,Married,2,No
+240000,-55,Teacher,Any,High School,Married,2,No
+30000,28786,Teacher,Any,High School,Married,2,No
+260000,12071,Teacher,Any,High School,Married,2,No
+110000,89989,Teacher,Any,High School,Married,2,No
+180000,172488,Teacher,Any,High School,Married,2,Yes
+360000,9210,Artist,Any,High School,Married,4,No
+30000,390,Artist,Any,High School,Married,4,Yes
+30000,19143,Artist,Any,High School,Married,4,No
+80000,726,Artist,Any,High School,Married,4,No
+150000,148747,Artist,Any,High School,Married,4,No
+30000,16088,Artist,Any,High School,Married,4,No
+50000,42200,Artist,Any,High School,Married,4,No
+160000,142064,Artist,Any,High School,Married,4,Yes
+360000,0,Artist,Any,High School,Married,4,No
+100000,94265,Doctor,Any,High School,Married,4,No
+180000,149698,Doctor,Any,High School,Married,4,Yes
+60000,60521,Doctor,Any,High School,Married,4,No
+50000,20454,Doctor,Any,High School,Married,4,No
+50000,33197,Doctor,Any,High School,Married,4,No
+250000,7244,Engineer,Any,High School,Single,2,No
+150000,214450,Engineer,Any,High School,Single,2,No
+100000,70003,Engineer,Any,High School,Single,2,No
+10000,7877,Engineer,Any,High School,Single,2,No
+10000,8813,Engineer,Any,High School,Single,2,No
+470000,165254,Artist,Any,High School,Single,2,No
+20000,16754,Artist,Any,High School,Single,2,Yes
+130000,71034,Artist,Any,High School,Single,2,No
+50000,46004,Artist,Any,High School,Single,2,Yes
+60000,56807,Artist,Any,High School,Single,2,No
+80000,49608,Artist,Any,High School,Single,2,No
+50000,52855,Artist,Any,High School,Single,2,No
+20000,12649,Artist,Any,High School,Single,2,No
+290000,1520,Artist,Any,High School,Single,2,No
+130000,38358,Artist,Any,High School,Single,2,No
+130000,119312,Artist,Any,High School,Single,2,No
+210000,0,Artist,Any,High School,Single,2,Yes
+80000,38503,Artist,Any,High School,Single,2,Yes
+260000,399,Artist,Any,High School,Single,2,No
+290000,13820,Dealer,Any,High School,Single,1,No
+90000,19450,Dealer,Any,High School,Single,1,No
+50000,50614,Dealer,Any,High School,Single,1,No
+100000,87579,Dealer,Any,High School,Single,1,No
+160000,390,Dealer,Any,High School,Single,1,No
+200000,0,Dealer,Any,High School,Single,1,No
+210000,8817,Dealer,Any,High School,Single,1,Yes
+160000,0,Dealer,Any,High School,Single,1,Yes
+320000,500,Dealer,Any,High School,Single,1,No
+50000,35429,Dealer,Any,High School,Single,1,No
+150000,101593,Shopkeeper,Any,High School,Single,1,No
+60000,26324,Shopkeeper,Any,High School,Single,1,Yes
+30000,390,Shopkeeper,Any,High School,Single,1,No
+180000,163935,Shopkeeper,Any,High School,Single,1,No
+30000,9014,Shopkeeper,Any,High School,Single,1,No
+50000,2000,Broker,Any,High School,Married,3,No
+170000,316,Broker,Any,High School,Married,3,No
+180000,24400,Broker,Any,High School,Married,3,No
+30000,390,Broker,Any,High School,Married,3,No
+50000,650,Broker,Any,High School,Married,3,No
+70000,27345,Broker,Any,High School,Married,3,No
+200000,780,Engineer,Any,High School,Married,4,No
+20000,12197,Engineer,Any,High School,Married,4,No
+200000,3556,Engineer,Any,High School,Married,4,No
+100000,4657,Engineer,Any,High School,Married,4,Yes
+70000,54968,Engineer,Any,High School,Married,4,Yes
+150000,151117,Broker,Any,High School,Married,2,Yes
+80000,35660,Broker,Any,High School,Married,2,No
+60000,9928,Broker,Any,High School,Married,2,Yes
+50000,49941,Broker,Any,High School,Married,2,No
+50000,22500,Broker,Any,High School,Married,2,No
+110000,61807,Lawyer,Any,High School,Married,2,No
+500000,13655,Lawyer,Any,High School,Married,2,No
+50000,58300,Lawyer,Any,High School,Married,2,No
+20000,20500,Lawyer,Any,High School,Married,2,Yes
+50000,50859,Lawyer,Any,High School,Married,2,No
+450000,3996,Lawyer,Any,High School,Married,2,No
+90000,11315,Teacher,Any,High School,Single,4,Yes
+200000,110151,Teacher,Any,High School,Single,4,No
+30000,2450,Teacher,Any,High School,Single,4,Yes
+20000,16735,Teacher,Any,High School,Single,4,No
+70000,19882,Artist,Any,High School,Married,1,No
+220000,162105,Artist,Any,High School,Married,1,Yes
+210000,198510,Artist,Any,High School,Married,1,No
+500000,22848,Artist,Any,High School,Married,1,Yes
+20000,3675,Artist,Any,High School,Married,1,Yes
+70000,61611,Artist,Any,High School,Married,1,No
+180000,32023,Artist,Any,High School,Married,1,No
+70000,254,Artist,Any,High School,Married,1,No
+130000,100143,Artist,Any,High School,Married,1,No
+20000,2946,Doctor,Any,High School,Married,2,No
+220000,20000,Doctor,Any,High School,Married,2,No
+150000,772,Doctor,Any,High School,Married,2,No
+20000,19805,Doctor,Any,High School,Married,2,Yes
+170000,21310,Teacher,Any,High School,Single,2,No
+50000,50375,Teacher,Any,High School,Single,2,No
+390000,355215,Teacher,Any,High School,Single,2,Yes
+130000,89003,Engineer,Any,High School,Married,5,Yes
+100000,100036,Engineer,Any,High School,Married,5,No
+20000,16097,Engineer,Any,High School,Married,5,Yes
+50000,18722,Teacher,Any,High School,Married,1,No
+80000,84985,Teacher,Any,High School,Married,1,No
+250000,52874,Teacher,Any,High School,Married,1,No
+80000,20255,Dealer,Any,High School,Married,2,No
+400000,2384,Dealer,Any,High School,Married,2,No
+70000,24758,Dealer,Any,High School,Married,2,No
+270000,10000,Dealer,Any,High School,Married,2,No
+100000,97002,Artist,Any,High School,Married,2,No
+180000,16386,Artist,Any,High School,Married,2,No
+470000,0,Artist,Any,High School,Married,2,No
+120000,108300,Artist,Any,High School,Married,2,No
+70000,18317,Artist,Any,High School,Married,2,No
+230000,195126,Artist,Any,High School,Married,2,No
+20000,15736,Artist,Any,High School,Married,2,No
+210000,138398,Artist,Any,High School,Married,2,No
+50000,38102,Artist,Any,High School,Married,2,Yes
+190000,89619,Artist,Any,High School,Married,2,No
+140000,89910,Artist,Any,High School,Married,2,No
+240000,0,Artist,Any,High School,Married,2,No
+130000,122199,Artist,Any,High School,Married,2,No
+130000,5444,Artist,Any,High School,Married,2,No
+50000,40992,Artist,Any,High School,Married,2,No
+90000,89928,Artist,Any,High School,Married,2,No
+50000,47822,Lawyer,Any,High School,Married,4,No
+130000,64617,Lawyer,Any,High School,Married,4,Yes
+50000,0,Lawyer,Any,High School,Married,4,Yes
+20000,14815,Lawyer,Any,High School,Married,4,No
+50000,752,Lawyer,Any,High School,Married,4,Yes
+50000,51737,Artist,Any,High School,Single,4,Yes
+130000,11085,Artist,Any,High School,Single,4,No
+40000,38257,Teacher,Any,High School,Married,3,No
+100000,110537,Teacher,Any,High School,Married,3,Yes
+30000,29434,Teacher,Any,High School,Married,3,No
+80000,63677,Broker,Any,High School,Married,1,No
+30000,23182,Broker,Any,High School,Married,1,No
+300000,12090,Broker,Any,High School,Married,1,No
+20000,16591,Broker,Any,High School,Married,1,No
+50000,50131,Doctor,Any,High School,Single,3,No
+50000,24443,Doctor,Any,High School,Single,3,No
+130000,1018,Doctor,Any,High School,Single,3,Yes
+20000,2191,Doctor,Any,High School,Single,3,No
+180000,67414,Dealer,Any,High School,Single,3,No
+200000,7697,Dealer,Any,High School,Single,3,No
+50000,4987,Dealer,Any,High School,Single,3,No
+50000,48909,Dealer,Any,High School,Single,3,No
+100000,1440,Dealer,Any,High School,Single,3,No
+480000,14867,Shopkeeper,Any,High School,Married,3,No
+60000,44801,Shopkeeper,Any,High School,Married,3,No
+130000,130067,Shopkeeper,Any,High School,Married,3,No
+330000,227389,Shopkeeper,Any,High School,Married,3,No
+20000,780,Shopkeeper,Any,High School,Married,3,Yes
+100000,62170,Shopkeeper,Any,High School,Married,3,No
+230000,0,Shopkeeper,Any,High School,Married,3,No
+50000,3424,Shopkeeper,Any,High School,Married,3,No
+180000,396,Shopkeeper,Any,High School,Married,3,No
+210000,115785,Shopkeeper,Any,High School,Married,3,Yes
+60000,62552,Broker,Any,High School,Single,2,No
+50000,52626,Broker,Any,High School,Single,2,Yes
+140000,131795,Shopkeeper,Any,High School,Single,4,Yes
+80000,77766,Shopkeeper,Any,High School,Single,4,No
+150000,264,Artist,Any,High School,Married,3,Yes
+100000,53849,Artist,Any,High School,Married,3,Yes
+50000,35713,Artist,Any,High School,Married,3,No
+30000,12289,Artist,Any,High School,Married,3,No
+190000,178367,Artist,Any,High School,Married,3,Yes
+50000,15931,Artist,Any,High School,Married,3,No
+50000,2722,Artist,Any,High School,Married,3,No
+80000,3367,Artist,Any,High School,Married,3,No
+100000,50485,Artist,Any,High School,Married,3,Yes
+30000,1355,Artist,Any,High School,Married,3,No
+20000,14589,Artist,Any,High School,Married,3,Yes
+80000,71515,Artist,Any,High School,Married,3,No
+30000,27947,Artist,Any,High School,Married,3,No
+20000,550,Artist,Any,High School,Married,3,No
+120000,1051,Artist,Any,High School,Married,3,No
+160000,46017,Artist,Any,High School,Married,3,Yes
+350000,3265,Artist,Any,High School,Married,3,No
+290000,1234,Artist,Any,High School,Married,3,No
+100000,154970,Artist,Any,High School,Married,3,No
+50000,48522,Artist,Any,High School,Married,3,No
+50000,50332,Engineer,Any,High School,Single,1,No
+50000,25060,Engineer,Any,High School,Single,1,No
+200000,185723,Engineer,Any,High School,Single,1,No
+50000,42678,Engineer,Any,High School,Single,1,Yes
+210000,0,Lawyer,Any,Graduate School,Single,4,Yes
+260000,0,Lawyer,Any,Graduate School,Single,4,Yes
+350000,100895,Lawyer,Any,Graduate School,Single,4,No
+200000,115702,Lawyer,Any,Graduate School,Single,4,No
+40000,5496,Lawyer,Any,High School,Single,1,No
+50000,2562,Lawyer,Any,High School,Single,1,No
+80000,46638,Lawyer,Any,High School,Single,1,No
+230000,19200,Lawyer,Any,High School,Single,1,No
+10000,8109,Lawyer,Any,High School,Single,1,Yes
+130000,132258,Lawyer,Any,High School,Single,1,No
+90000,595,Lawyer,Any,High School,Single,1,Yes
+230000,1200,Lawyer,Any,High School,Single,1,No
+20000,4101,Lawyer,Any,High School,Single,1,No
+140000,67505,Lawyer,Any,High School,Single,1,No
+150000,456,Lawyer,Any,High School,Single,1,Yes
+270000,165303,Engineer,Any,High School,Married,3,No
+50000,4064,Engineer,Any,High School,Married,3,No
+50000,13244,Engineer,Any,High School,Married,3,No
+240000,5325,Engineer,Any,High School,Married,3,No
+140000,68075,Engineer,Any,High School,Married,3,No
+100000,780,Engineer,Any,High School,Married,3,Yes
+20000,19739,Engineer,Any,High School,Married,3,No
+90000,77604,Engineer,Any,High School,Married,3,No
+20000,24310,Lawyer,Any,High School,Married,1,No
+140000,11285,Lawyer,Any,High School,Married,1,No
+300000,24921,Lawyer,Any,High School,Married,1,No
+150000,37800,Dealer,Any,High School,Married,3,No
+40000,41094,Dealer,Any,High School,Married,3,Yes
+60000,61600,Dealer,Any,High School,Married,3,Yes
+50000,5630,Dealer,Any,High School,Married,3,No
+180000,316,Dealer,Any,High School,Married,3,No
+80000,26637,Dealer,Any,High School,Married,3,No
+50000,35417,Artist,Any,Graduate School,Single,4,Yes
+70000,69398,Artist,Any,Graduate School,Single,4,No
+350000,713,Artist,Any,Graduate School,Single,4,No
+200000,196031,Teacher,Any,High School,Single,1,No
+360000,0,Teacher,Any,High School,Single,1,Yes
+50000,5538,Shopkeeper,Any,High School,Single,2,No
+20000,3677,Shopkeeper,Any,High School,Single,2,Yes
+50000,40011,Shopkeeper,Any,High School,Single,2,No
+30000,23687,Shopkeeper,Any,High School,Single,2,No
+10000,10012,Broker,Any,High School,Single,1,Yes
+50000,9935,Broker,Any,High School,Single,1,No
+30000,29010,Broker,Any,High School,Single,1,Yes
+50000,42838,Broker,Any,High School,Single,1,No
+110000,101006,Broker,Any,High School,Single,1,Yes
+50000,64069,Teacher,Any,High School,Married,4,No
+210000,57192,Teacher,Any,High School,Married,4,No
+50000,38607,Teacher,Any,High School,Married,4,No
+50000,62847,Teacher,Any,High School,Married,4,No
+110000,46486,Teacher,Any,High School,Married,4,No
+170000,0,Doctor,Any,High School,Single,4,No
+480000,482250,Doctor,Any,High School,Single,4,No
+260000,0,Dealer,Any,High School,Married,4,No
+50000,15899,Dealer,Any,High School,Married,4,No
+30000,9720,Dealer,Any,High School,Married,4,Yes
+40000,14769,Dealer,Any,High School,Married,4,No
+140000,-150,Dealer,Any,High School,Married,4,Yes
+160000,2000,Dealer,Any,High School,Married,4,No
+60000,29295,Shopkeeper,Any,High School,Married,2,No
+50000,49157,Shopkeeper,Any,High School,Married,2,Yes
+120000,66055,Shopkeeper,Any,High School,Married,2,Yes
+100000,16033,Shopkeeper,Any,High School,Married,2,No
+280000,-288,Shopkeeper,Any,High School,Married,2,No
+300000,331,Shopkeeper,Any,High School,Married,2,No
+100000,101503,Dealer,Any,High School,Single,4,No
+100000,73904,Dealer,Any,High School,Single,4,No
+160000,155684,Dealer,Any,High School,Single,4,No
+60000,41322,Lawyer,Any,High School,Single,3,No
+200000,199436,Lawyer,Any,High School,Single,3,Yes
+80000,1262,Lawyer,Any,High School,Married,5,No
+580000,453985,Lawyer,Any,High School,Married,5,No
+230000,147300,Teacher,Any,High School,Single,3,No
+20000,9417,Teacher,Any,High School,Single,3,No
+150000,99247,Teacher,Any,High School,Single,3,No
+130000,36108,Teacher,Any,High School,Single,3,No
+70000,70476,Teacher,Any,High School,Single,3,No
+180000,159999,Engineer,Any,High School,Married,2,Yes
+300000,280823,Engineer,Any,High School,Married,2,Yes
+240000,107148,Engineer,Any,High School,Married,2,Yes
+180000,10159,Engineer,Any,High School,Married,2,Yes
+60000,35369,Engineer,Any,High School,Married,2,Yes
+170000,158920,Engineer,Any,High School,Married,2,No
+70000,68739,Engineer,Any,High School,Married,2,No
+500000,315201,Engineer,Any,High School,Married,2,No
+200000,38564,Lawyer,Any,University,Married,3,No
+140000,1154,Lawyer,Any,University,Married,3,No
+400000,0,Lawyer,Any,University,Married,3,No
+30000,20518,Lawyer,Any,University,Married,3,No
+280000,186149,Lawyer,Any,University,Married,3,Yes
+260000,29484,Lawyer,Any,University,Married,3,No
+130000,29547,Lawyer,Any,University,Married,3,No
+230000,7806,Lawyer,Any,University,Married,3,No
+210000,80527,Lawyer,Any,University,Married,3,No
+360000,270248,Lawyer,Any,University,Married,3,No
+170000,177956,Lawyer,Any,University,Married,3,No
+120000,316,Broker,Any,University,Married,2,Yes
+70000,70800,Broker,Any,University,Married,2,No
+500000,10483,Broker,Any,University,Married,2,No
+30000,20344,Broker,Any,University,Married,2,No
+50000,58102,Broker,Any,University,Married,2,No
+100000,98845,Broker,Any,University,Married,2,Yes
+50000,46990,Broker,Any,University,Married,2,No
+60000,30381,Broker,Any,University,Married,2,Yes
+180000,1081,Broker,Any,University,Married,2,No
+500000,94585,Broker,Any,University,Married,2,No
+420000,171141,Broker,Any,University,Married,2,No
+90000,49295,Broker,Any,University,Married,2,No
+250000,42441,Broker,Any,University,Married,2,No
+280000,207982,Broker,Any,University,Married,2,No
+50000,48797,Broker,Any,University,Married,2,No
+20000,2508,Broker,Any,University,Married,2,No
+320000,58267,Lawyer,Any,University,Single,1,Yes
+30000,28387,Lawyer,Any,University,Single,1,Yes
+110000,432,Lawyer,Any,University,Single,1,No
+170000,2948,Lawyer,Any,University,Single,1,Yes
+80000,22619,Lawyer,Any,University,Single,1,No
+260000,98560,Lawyer,Any,University,Single,1,No
+20000,18763,Lawyer,Any,University,Single,1,No
+50000,97538,Lawyer,Any,University,Single,1,No
+360000,268112,Lawyer,Any,University,Single,1,No
+20000,13168,Lawyer,Any,University,Single,1,No
+310000,106468,Lawyer,Any,University,Single,1,No
+50000,48036,Lawyer,Any,University,Single,1,Yes
+50000,48861,Lawyer,Any,University,Single,1,Yes
+20000,20218,Lawyer,Any,University,Single,1,No
+30000,27826,Lawyer,Any,University,Single,1,No
+50000,49609,Lawyer,Any,University,Single,1,No
+180000,10022,Lawyer,Any,University,Single,1,Yes
+10000,3714,Lawyer,Any,University,Single,1,No
+50000,97043,Lawyer,Any,University,Single,1,No
+50000,23901,Lawyer,Any,University,Single,1,Yes
+240000,7818,Lawyer,Any,University,Single,1,No
+20000,11192,Lawyer,Any,University,Single,1,No
+50000,50507,Lawyer,Any,University,Single,1,No
+120000,16812,Lawyer,Any,University,Single,1,No
+20000,18804,Lawyer,Any,University,Single,1,No
+80000,81003,Lawyer,Any,University,Single,1,Yes
+80000,77416,Lawyer,Any,University,Single,1,Yes
+70000,30139,Lawyer,Any,University,Single,1,No
+210000,7166,Dealer,Any,University,Married,2,No
+280000,-1312,Dealer,Any,University,Married,2,Yes
+190000,177554,Dealer,Any,University,Married,2,No
+110000,92638,Dealer,Any,University,Married,2,No
+300000,-475,Dealer,Any,University,Married,2,Yes
+320000,43528,Dealer,Any,University,Married,2,No
+470000,873,Dealer,Any,University,Married,2,No
+260000,7967,Dealer,Any,University,Married,2,No
+110000,81665,Dealer,Any,University,Married,2,No
+80000,81074,Dealer,Any,University,Married,2,No
+170000,166246,Dealer,Any,University,Married,2,No
+180000,21494,Dealer,Any,University,Married,2,No
+350000,325,Dealer,Any,University,Married,2,No
+30000,223,Dealer,Any,University,Married,2,Yes
+20000,19755,Dealer,Any,University,Married,2,Yes
+260000,425349,Dealer,Any,University,Married,2,Yes
+380000,19261,Dealer,Any,University,Married,2,No
+80000,77883,Broker,Any,University,Married,1,No
+50000,102800,Broker,Any,University,Married,1,No
+50000,0,Broker,Any,University,Married,1,No
+100000,94453,Broker,Any,University,Married,1,No
+350000,8760,Broker,Any,University,Married,1,No
+300000,1874,Broker,Any,University,Married,1,No
+230000,64982,Broker,Any,University,Married,1,No
+200000,47236,Broker,Any,University,Married,1,No
+200000,26223,Broker,Any,University,Married,1,No
+140000,81960,Broker,Any,University,Married,1,No
+210000,3088,Dealer,Any,University,Married,3,Yes
+400000,131595,Dealer,Any,University,Married,3,No
+30000,47912,Dealer,Any,University,Married,3,No
+50000,34962,Dealer,Any,University,Married,3,No
+150000,2605,Dealer,Any,University,Married,3,No
+50000,20944,Dealer,Any,University,Married,3,No
+30000,28234,Dealer,Any,University,Married,3,No
+20000,15294,Dealer,Any,University,Married,3,No
+230000,5990,Dealer,Any,University,Married,3,No
+380000,385662,Dealer,Any,University,Married,3,Yes
+140000,109326,Dealer,Any,University,Married,3,No
+170000,93420,Dealer,Any,University,Married,3,Yes
+50000,569,Dealer,Any,University,Married,3,Yes
+180000,816,Dealer,Any,University,Married,3,No
+360000,226430,Dealer,Any,University,Married,3,No
+140000,19346,Engineer,Any,University,Single,3,Yes
+80000,78129,Engineer,Any,University,Single,3,No
+80000,45174,Engineer,Any,University,Single,3,No
+240000,291,Engineer,Any,University,Single,3,Yes
+50000,90231,Engineer,Any,University,Single,3,Yes
+450000,-200,Dealer,Any,Graduate School,Married,3,Yes
+360000,0,Dealer,Any,Graduate School,Married,3,No
+100000,10529,Dealer,Any,Graduate School,Married,3,No
+500000,1905,Dealer,Any,Graduate School,Married,3,No
+320000,97797,Dealer,Any,Graduate School,Married,3,No
+90000,6160,Dealer,Any,Graduate School,Married,3,No
+210000,110346,Dealer,Any,Graduate School,Married,3,No
+320000,9192,Dealer,Any,Graduate School,Married,3,No
+300000,3000,Dealer,Any,Graduate School,Married,3,No
+330000,8872,Dealer,Any,Graduate School,Married,3,No
+200000,11253,Artist,Any,University,Single,2,No
+70000,68699,Artist,Any,University,Single,2,No
+100000,99209,Artist,Any,University,Single,2,No
+110000,47819,Artist,Any,University,Single,2,No
+360000,93029,Artist,Any,University,Single,2,No
+50000,5916,Artist,Any,University,Single,2,No
+380000,194314,Artist,Any,University,Single,2,No
+50000,45734,Artist,Any,University,Single,2,No
+50000,20526,Artist,Any,University,Single,2,Yes
+220000,37304,Artist,Any,University,Single,2,No
+260000,255691,Artist,Any,University,Single,2,No
+90000,573,Artist,Any,University,Single,2,No
+110000,65299,Artist,Any,University,Single,2,No
+170000,56364,Artist,Any,University,Single,2,No
+30000,99568,Artist,Any,University,Single,2,No
+190000,145613,Artist,Any,University,Single,2,Yes
+300000,3345,Artist,Any,University,Single,2,No
+20000,19816,Artist,Any,University,Single,2,No
+90000,29239,Artist,Any,University,Single,2,No
+10000,8755,Artist,Any,University,Single,2,No
+30000,29095,Artist,Any,University,Single,2,No
+180000,119333,Artist,Any,University,Single,2,No
+290000,310403,Artist,Any,University,Single,2,No
+320000,91653,Artist,Any,University,Single,2,No
+80000,57364,Artist,Any,University,Single,2,No
+30000,7851,Artist,Any,University,Single,2,Yes
+180000,3135,Artist,Any,University,Single,2,No
+200000,33781,Artist,Any,University,Single,2,No
+130000,171438,Artist,Any,University,Single,2,No
+310000,4040,Artist,Any,University,Single,2,No
+300000,62198,Artist,Any,University,Single,2,No
+110000,279,Artist,Any,University,Single,2,No
+30000,31089,Artist,Any,University,Single,2,No
+200000,176502,Artist,Any,University,Single,2,Yes
+200000,0,Artist,Any,University,Single,2,No
+60000,59643,Artist,Any,University,Single,2,No
+50000,50958,Artist,Any,University,Single,2,No
+20000,21703,Artist,Any,University,Single,2,No
+120000,16241,Artist,Any,University,Single,2,Yes
+250000,6220,Artist,Any,University,Single,2,Yes
+230000,189567,Artist,Any,University,Single,2,Yes
+230000,326,Artist,Any,University,Single,2,No
+360000,360023,Artist,Any,University,Single,2,Yes
+340000,337981,Artist,Any,University,Single,2,No
+450000,13500,Artist,Any,University,Single,2,No
+190000,771,Artist,Any,University,Single,2,No
+50000,27752,Artist,Any,University,Single,2,Yes
+10000,1050,Artist,Any,University,Single,2,Yes
+20000,3152,Artist,Any,University,Single,2,No
+50000,14008,Artist,Any,University,Single,2,Yes
+110000,116486,Artist,Any,University,Single,2,No
+420000,7572,Artist,Any,University,Single,2,No
+260000,106093,Artist,Any,University,Single,2,No
+30000,20424,Artist,Any,University,Single,2,No
+450000,457627,Artist,Any,University,Single,2,No
+20000,8488,Artist,Any,University,Single,2,Yes
+320000,104850,Artist,Any,University,Single,2,No
+20000,4485,Artist,Any,University,Single,2,No
+240000,0,Dealer,Any,University,Single,3,Yes
+50000,51631,Dealer,Any,University,Single,3,No
+630000,12137,Dealer,Any,University,Single,3,No
+310000,103797,Engineer,Any,University,Married,3,No
+280000,148363,Engineer,Any,University,Married,3,No
+20000,5902,Engineer,Any,University,Married,3,No
+50000,10750,Engineer,Any,University,Married,3,No
+500000,16984,Engineer,Any,University,Married,3,No
+190000,435,Engineer,Any,University,Married,3,No
+500000,4214,Engineer,Any,University,Married,3,No
+20000,13882,Engineer,Any,University,Married,3,No
+70000,50886,Engineer,Any,University,Married,3,Yes
+50000,49816,Engineer,Any,University,Married,3,No
+90000,89875,Engineer,Any,University,Married,3,Yes
+360000,22237,Engineer,Any,University,Married,3,No
+200000,96910,Engineer,Any,University,Married,3,No
+210000,212601,Shopkeeper,Any,University,Single,2,No
+40000,40034,Shopkeeper,Any,University,Single,2,No
+160000,130028,Shopkeeper,Any,University,Single,2,No
+90000,35785,Shopkeeper,Any,University,Single,2,No
+180000,0,Shopkeeper,Any,University,Single,2,No
+400000,0,Shopkeeper,Any,University,Single,2,No
+30000,28347,Shopkeeper,Any,University,Single,2,No
+110000,0,Shopkeeper,Any,University,Single,2,Yes
+80000,79148,Shopkeeper,Any,University,Single,2,No
+150000,-19,Shopkeeper,Any,University,Single,2,No
+70000,24208,Shopkeeper,Any,University,Single,2,No
+230000,10237,Shopkeeper,Any,University,Single,2,No
+270000,37695,Shopkeeper,Any,University,Single,2,No
+80000,78717,Shopkeeper,Any,University,Single,2,No
+50000,48813,Shopkeeper,Any,University,Single,2,No
+400000,366193,Doctor,Any,University,Single,3,No
+300000,34480,Doctor,Any,University,Single,3,No
+10000,8184,Doctor,Any,University,Single,3,Yes
+50000,27560,Doctor,Any,University,Single,3,No
+160000,12458,Doctor,Any,University,Single,3,No
+140000,108033,Doctor,Any,University,Single,3,No
+50000,38947,Doctor,Any,University,Single,3,Yes
+120000,14682,Lawyer,Any,Graduate School,Married,3,No
+50000,45717,Lawyer,Any,Graduate School,Married,3,No
+290000,165563,Lawyer,Any,Graduate School,Married,3,No
+200000,667,Lawyer,Any,Graduate School,Married,3,No
+220000,396,Teacher,Any,University,Married,2,Yes
+200000,80833,Teacher,Any,University,Married,2,No
+200000,152856,Teacher,Any,University,Married,2,No
+50000,10821,Teacher,Any,University,Married,2,No
+20000,17973,Teacher,Any,University,Married,2,Yes
+180000,74189,Teacher,Any,University,Married,2,No
+210000,396,Teacher,Any,University,Married,2,No
+130000,0,Teacher,Any,University,Married,2,No
+20000,16455,Teacher,Any,University,Married,2,No
+150000,132214,Teacher,Any,University,Married,2,No
+160000,1988,Teacher,Any,University,Married,2,No
+280000,29078,Teacher,Any,University,Married,2,No
+80000,20366,Teacher,Any,University,Married,2,No
+60000,58203,Teacher,Any,University,Married,2,No
+100000,92265,Teacher,Any,University,Married,2,No
+90000,85997,Teacher,Any,University,Married,2,No
+580000,110417,Teacher,Any,University,Married,2,No
+220000,8000,Teacher,Any,University,Married,2,No
+140000,111496,Shopkeeper,Any,University,Married,3,Yes
+10000,7139,Shopkeeper,Any,University,Married,3,Yes
+270000,127543,Shopkeeper,Any,University,Married,3,No
+220000,650,Shopkeeper,Any,University,Married,3,Yes
+200000,18012,Shopkeeper,Any,University,Married,3,No
+220000,172184,Shopkeeper,Any,University,Married,3,No
+300000,8924,Shopkeeper,Any,University,Married,3,No
+360000,147,Shopkeeper,Any,University,Married,3,No
+180000,70721,Shopkeeper,Any,University,Married,3,No
+240000,8751,Shopkeeper,Any,University,Married,3,No
+100000,56256,Shopkeeper,Any,University,Married,3,No
+470000,169260,Shopkeeper,Any,University,Married,3,No
+160000,0,Doctor,Any,University,Single,1,No
+40000,35285,Doctor,Any,University,Single,1,No
+50000,26795,Doctor,Any,University,Single,1,No
+20000,14619,Doctor,Any,University,Single,1,No
+170000,1170,Doctor,Any,University,Single,1,No
+30000,22582,Doctor,Any,University,Single,1,No
+330000,49549,Doctor,Any,University,Single,1,No
+80000,17330,Doctor,Any,University,Single,1,Yes
+50000,37647,Doctor,Any,University,Single,1,Yes
+80000,11894,Doctor,Any,University,Single,1,No
+20000,20610,Doctor,Any,University,Single,1,Yes
+390000,149445,Doctor,Any,University,Single,1,No
+30000,34423,Doctor,Any,University,Single,1,No
+60000,43356,Doctor,Any,University,Single,1,Yes
+140000,137606,Doctor,Any,University,Single,1,No
+50000,49144,Doctor,Any,University,Single,1,No
+60000,2516,Doctor,Any,University,Single,1,No
+210000,108491,Doctor,Any,University,Single,1,No
+50000,48072,Doctor,Any,University,Single,1,No
+80000,41815,Doctor,Any,University,Single,1,No
+120000,118063,Doctor,Any,University,Single,1,No
+50000,21998,Doctor,Any,University,Single,1,No
+10000,10250,Doctor,Any,University,Single,1,No
+230000,24973,Doctor,Any,University,Single,1,No
+50000,9214,Artist,Any,University,Married,2,No
+50000,48226,Artist,Any,University,Married,2,No
+190000,115049,Artist,Any,University,Married,2,No
+30000,29493,Artist,Any,University,Married,2,No
+280000,2082,Artist,Any,University,Married,2,Yes
+90000,42856,Artist,Any,University,Married,2,Yes
+40000,24114,Artist,Any,University,Married,2,No
+30000,25078,Artist,Any,University,Married,2,No
+20000,12857,Artist,Any,University,Married,2,Yes
+280000,186503,Artist,Any,University,Married,2,No
+360000,-301,Artist,Any,University,Married,2,Yes
+70000,69418,Artist,Any,University,Married,2,Yes
+400000,3697,Artist,Any,University,Married,2,No
+20000,11026,Artist,Any,University,Married,2,No
+230000,87764,Artist,Any,University,Married,2,Yes
+160000,2694,Artist,Any,University,Married,2,No
+350000,67648,Artist,Any,University,Married,2,No
+300000,205064,Artist,Any,University,Married,2,No
+250000,103109,Artist,Any,University,Married,2,No
+140000,105192,Artist,Any,University,Married,2,No
+30000,7797,Artist,Any,University,Married,2,No
+50000,16906,Artist,Any,University,Married,2,No
+200000,5150,Artist,Any,University,Married,2,No
+80000,6108,Artist,Any,University,Married,2,No
+60000,24898,Artist,Any,University,Married,2,Yes
+260000,134736,Artist,Any,University,Married,2,No
+90000,4989,Artist,Any,University,Married,2,No
+20000,18648,Artist,Any,University,Married,2,Yes
+240000,127418,Artist,Any,University,Married,2,Yes
+90000,72112,Artist,Any,University,Married,2,No
+160000,8015,Artist,Any,University,Married,2,No
+200000,50612,Artist,Any,University,Married,2,No
+80000,2890,Artist,Any,University,Married,2,No
+300000,0,Artist,Any,University,Married,2,No
+220000,194961,Artist,Any,University,Married,2,No
+180000,152510,Artist,Any,University,Married,2,No
+80000,48747,Artist,Any,University,Married,2,No
+160000,26295,Artist,Any,University,Married,2,Yes
+160000,0,Artist,Any,University,Married,2,Yes
+400000,19660,Artist,Any,University,Married,2,No
+260000,244738,Artist,Any,University,Married,2,Yes
+20000,14112,Artist,Any,University,Married,2,No
+140000,59504,Artist,Any,University,Married,2,No
+30000,30573,Artist,Any,University,Married,2,No
+70000,66759,Artist,Any,University,Married,2,No
+170000,75960,Artist,Any,University,Married,2,No
+130000,59955,Artist,Any,University,Married,2,No
+310000,7246,Artist,Any,University,Married,2,No
+250000,44930,Artist,Any,University,Married,2,No
+130000,1261,Artist,Any,University,Married,2,No
+150000,8967,Artist,Any,University,Married,2,No
+110000,84589,Artist,Any,University,Married,2,No
+50000,48508,Artist,Any,University,Married,2,No
+480000,18214,Artist,Any,University,Married,2,No
+80000,1689,Artist,Any,University,Married,2,No
+310000,304991,Artist,Any,University,Married,2,Yes
+30000,13265,Artist,Any,University,Married,2,No
+420000,253454,Artist,Any,University,Married,2,No
+100000,2205,Artist,Any,University,Married,2,No
+260000,243196,Artist,Any,University,Married,2,No
+60000,4764,Artist,Any,University,Married,2,No
+240000,10674,Artist,Any,University,Married,2,No
+400000,52271,Artist,Any,University,Married,2,No
+160000,776,Artist,Any,University,Married,2,Yes
+50000,48219,Artist,Any,University,Married,2,No
+70000,60058,Artist,Any,University,Married,2,No
+320000,93768,Artist,Any,University,Married,2,No
+50000,1894,Artist,Any,University,Married,2,Yes
+200000,9076,Artist,Any,University,Married,2,No
+80000,11262,Artist,Any,University,Married,2,No
+500000,59372,Artist,Any,University,Married,2,No
+140000,121374,Artist,Any,University,Married,2,No
+140000,86627,Shopkeeper,Any,University,Married,2,No
+240000,240878,Shopkeeper,Any,University,Married,2,No
+280000,213738,Shopkeeper,Any,University,Married,2,No
+30000,0,Shopkeeper,Any,University,Married,2,No
+10000,15915,Shopkeeper,Any,University,Married,2,No
+240000,238,Shopkeeper,Any,University,Married,2,Yes
+180000,15548,Shopkeeper,Any,University,Married,2,Yes
+240000,219099,Shopkeeper,Any,University,Married,2,No
+100000,14483,Shopkeeper,Any,University,Married,2,Yes
+10000,8425,Shopkeeper,Any,University,Married,2,No
+480000,90258,Shopkeeper,Any,University,Married,2,No
+50000,47790,Shopkeeper,Any,University,Married,2,No
+120000,4158,Shopkeeper,Any,University,Married,2,No
+60000,47000,Shopkeeper,Any,University,Married,2,No
+50000,1050,Shopkeeper,Any,University,Married,2,Yes
+290000,274558,Shopkeeper,Any,University,Married,2,Yes
+170000,109863,Shopkeeper,Any,University,Married,2,No
+140000,430,Shopkeeper,Any,University,Married,2,Yes
+150000,39465,Shopkeeper,Any,University,Married,2,Yes
+30000,28778,Shopkeeper,Any,University,Married,2,Yes
+20000,20498,Shopkeeper,Any,University,Married,2,Yes
+30000,25382,Lawyer,Any,University,Single,4,No
+20000,14591,Lawyer,Any,University,Single,4,No
+360000,10733,Lawyer,Any,University,Single,4,No
+290000,-68,Lawyer,Any,University,Single,4,No
+500000,507062,Doctor,Any,Graduate School,Married,2,No
+300000,2285,Doctor,Any,Graduate School,Married,2,No
+290000,93844,Doctor,Any,Graduate School,Married,2,No
+300000,0,Doctor,Any,Graduate School,Married,2,No
+280000,21251,Doctor,Any,Graduate School,Married,2,No
+140000,23944,Doctor,Any,Graduate School,Married,2,No
+270000,23351,Doctor,Any,Graduate School,Married,2,No
+20000,628,Doctor,Any,Graduate School,Married,2,No
+160000,0,Doctor,Any,Graduate School,Married,2,No
+200000,-14386,Doctor,Any,Graduate School,Married,2,No
+410000,2744,Doctor,Any,Graduate School,Married,2,No
+230000,2648,Doctor,Any,Graduate School,Married,2,No
+470000,152478,Lawyer,Any,University,Married,1,Yes
+90000,12770,Lawyer,Any,University,Married,1,Yes
+400000,400134,Lawyer,Any,University,Married,1,No
+160000,62312,Lawyer,Any,University,Married,1,No
+490000,192586,Lawyer,Any,University,Married,1,No
+90000,41073,Lawyer,Any,University,Married,1,No
+230000,9636,Shopkeeper,Any,University,Married,1,Yes
+200000,81865,Shopkeeper,Any,University,Married,1,No
+40000,11273,Shopkeeper,Any,University,Married,1,No
+220000,0,Shopkeeper,Any,University,Married,1,No
+80000,21507,Shopkeeper,Any,University,Married,1,No
+20000,3913,Shopkeeper,Any,University,Married,1,Yes
+140000,44733,Teacher,Any,University,Single,1,No
+50000,14937,Teacher,Any,University,Single,1,No
+30000,24238,Teacher,Any,University,Single,1,Yes
+80000,77389,Teacher,Any,University,Single,1,No
+400000,-200,Teacher,Any,University,Single,1,No
+30000,7160,Teacher,Any,University,Single,1,No
+140000,4113,Teacher,Any,University,Single,1,No
+20000,20235,Teacher,Any,University,Single,1,Yes
+130000,122750,Teacher,Any,University,Single,1,No
+30000,17893,Teacher,Any,University,Single,1,Yes
+50000,52515,Teacher,Any,University,Single,1,Yes
+40000,20035,Teacher,Any,University,Single,1,No
+20000,8222,Teacher,Any,University,Single,1,Yes
+50000,26655,Teacher,Any,University,Single,1,No
+100000,70896,Teacher,Any,University,Single,1,Yes
+60000,480,Teacher,Any,University,Single,1,No
+190000,110031,Teacher,Any,University,Single,1,No
+50000,29186,Teacher,Any,University,Single,1,No
+30000,27388,Teacher,Any,University,Single,1,No
+240000,184501,Teacher,Any,University,Single,1,No
+150000,127402,Teacher,Any,University,Single,1,No
+50000,49809,Teacher,Any,University,Single,1,No
+20000,10642,Teacher,Any,University,Single,1,No
+230000,26361,Doctor,Any,University,Married,1,Yes
+270000,21586,Doctor,Any,University,Married,1,No
+120000,1686,Doctor,Any,University,Married,1,No
+330000,390,Doctor,Any,University,Married,1,No
+20000,16726,Doctor,Any,University,Married,1,Yes
+200000,159398,Doctor,Any,University,Married,1,Yes
+230000,30818,Doctor,Any,University,Married,1,No
+40000,21590,Doctor,Any,University,Married,1,Yes
+230000,56171,Doctor,Any,University,Married,1,No
+20000,21075,Lawyer,Any,University,Single,3,No
+50000,50300,Lawyer,Any,University,Single,3,No
+210000,467,Lawyer,Any,University,Single,3,No
+20000,2400,Lawyer,Any,University,Single,3,Yes
+240000,14348,Shopkeeper,Any,University,Single,1,No
+120000,113348,Shopkeeper,Any,University,Single,1,No
+20000,19977,Shopkeeper,Any,University,Single,1,Yes
+50000,48221,Shopkeeper,Any,University,Single,1,No
+20000,15764,Shopkeeper,Any,University,Single,1,No
+240000,92,Shopkeeper,Any,University,Single,1,No
+140000,101551,Shopkeeper,Any,University,Single,1,Yes
+440000,96190,Shopkeeper,Any,University,Single,1,No
+140000,133572,Shopkeeper,Any,University,Single,1,Yes
+30000,27391,Shopkeeper,Any,University,Single,1,No
+20000,1041,Shopkeeper,Any,University,Single,1,No
+220000,165040,Shopkeeper,Any,University,Single,1,Yes
+20000,16508,Shopkeeper,Any,University,Single,1,No
+100000,914,Shopkeeper,Any,University,Single,1,No
+90000,24401,Shopkeeper,Any,University,Single,1,No
+160000,7002,Shopkeeper,Any,University,Single,1,No
+140000,945,Shopkeeper,Any,University,Single,1,No
+120000,100,Shopkeeper,Any,University,Single,1,No
+50000,17771,Shopkeeper,Any,University,Single,1,No
+50000,27570,Shopkeeper,Any,University,Single,1,No
+60000,49507,Shopkeeper,Any,University,Single,1,Yes
+50000,29509,Shopkeeper,Any,University,Single,1,Yes
+50000,49819,Shopkeeper,Any,University,Single,1,No
+100000,72652,Shopkeeper,Any,University,Single,1,Yes
+80000,79318,Shopkeeper,Any,University,Single,1,No
+170000,12159,Shopkeeper,Any,University,Single,1,No
+110000,5660,Shopkeeper,Any,University,Single,1,No
+60000,55064,Shopkeeper,Any,University,Single,1,No
+280000,208775,Artist,Any,University,Married,4,No
+270000,137807,Artist,Any,University,Married,4,No
+230000,1350,Artist,Any,University,Married,4,No
+360000,2995,Artist,Any,University,Married,4,No
+500000,10929,Artist,Any,University,Married,4,No
+50000,1583,Artist,Any,University,Married,4,No
+50000,8617,Artist,Any,University,Married,4,No
+360000,750,Artist,Any,University,Married,4,No
+110000,46132,Artist,Any,University,Married,4,No
+330000,-9,Artist,Any,University,Married,4,No
+220000,8727,Artist,Any,University,Married,4,No
+200000,64195,Lawyer,Any,University,Single,2,No
+140000,390,Lawyer,Any,University,Single,2,No
+200000,1371,Lawyer,Any,University,Single,2,No
+50000,14536,Lawyer,Any,University,Single,2,No
+90000,2667,Lawyer,Any,University,Single,2,No
+170000,24581,Lawyer,Any,University,Single,2,No
+300000,291619,Lawyer,Any,University,Single,2,No
+380000,22401,Lawyer,Any,University,Single,2,No
+210000,142149,Lawyer,Any,University,Single,2,No
+200000,184676,Lawyer,Any,University,Single,2,No
+20000,11916,Lawyer,Any,University,Single,2,No
+360000,0,Lawyer,Any,University,Single,2,Yes
+80000,25935,Lawyer,Any,University,Single,2,No
+450000,-14,Lawyer,Any,University,Single,2,No
+140000,101038,Lawyer,Any,University,Single,2,No
+230000,28114,Lawyer,Any,University,Single,2,No
+460000,449790,Lawyer,Any,University,Single,2,No
+20000,5766,Artist,Any,Graduate School,Married,1,Yes
+150000,-819,Artist,Any,Graduate School,Married,1,No
+230000,30341,Artist,Any,Graduate School,Married,1,No
+340000,351828,Artist,Any,Graduate School,Married,1,No
+410000,354506,Artist,Any,University,Married,3,Yes
+360000,0,Artist,Any,University,Married,3,Yes
+120000,1188,Artist,Any,University,Married,3,No
+340000,4052,Artist,Any,University,Married,3,No
+440000,180641,Artist,Any,University,Married,3,No
+280000,135673,Artist,Any,University,Married,3,No
+210000,106724,Artist,Any,University,Married,3,No
+150000,3260,Artist,Any,University,Married,3,Yes
+160000,0,Artist,Any,University,Married,3,No
+500000,12200,Artist,Any,University,Married,3,No
+470000,13780,Artist,Any,University,Married,3,No
+30000,27879,Artist,Any,University,Married,3,No
+140000,1600,Artist,Any,University,Married,3,Yes
+80000,3153,Artist,Any,University,Married,3,No
+20000,18021,Artist,Any,University,Married,3,No
+360000,5101,Artist,Any,University,Married,3,No
+50000,21986,Artist,Any,University,Married,3,No
+50000,44338,Artist,Any,University,Married,3,No
+180000,27679,Artist,Any,University,Married,3,Yes
+240000,0,Artist,Any,University,Married,3,No
+50000,23587,Artist,Any,University,Married,3,No
+240000,3313,Artist,Any,University,Married,3,Yes
+50000,10929,Artist,Any,University,Married,3,No
+80000,2587,Artist,Any,University,Married,3,No
+630000,37850,Artist,Any,University,Married,3,No
+60000,57598,Artist,Any,University,Married,3,Yes
+120000,92007,Artist,Any,University,Married,3,No
+60000,631,Artist,Any,University,Married,3,No
+30000,28703,Artist,Any,University,Married,3,No
+50000,28718,Artist,Any,University,Married,3,Yes
+150000,390,Artist,Any,University,Married,3,Yes
+310000,23396,Artist,Any,University,Married,3,No
+50000,3656,Artist,Any,University,Married,3,No
+170000,21170,Artist,Any,University,Married,3,No
+50000,1473,Artist,Any,University,Married,3,No
+130000,24008,Artist,Any,University,Married,3,No
+240000,20272,Artist,Any,University,Married,3,No
+260000,0,Doctor,Any,University,Married,2,No
+210000,26749,Doctor,Any,University,Married,2,No
+360000,-103,Doctor,Any,University,Married,2,No
+260000,5841,Doctor,Any,University,Married,2,No
+100000,326,Doctor,Any,University,Married,2,No
+200000,6626,Doctor,Any,University,Married,2,No
+160000,880,Doctor,Any,University,Married,2,No
+210000,37148,Doctor,Any,University,Married,2,No
+240000,-946,Doctor,Any,University,Married,2,Yes
+20000,17104,Doctor,Any,University,Married,2,No
+120000,113869,Doctor,Any,University,Married,2,No
+270000,234752,Doctor,Any,University,Married,2,Yes
+360000,0,Doctor,Any,University,Married,2,No
+180000,175886,Doctor,Any,University,Married,2,No
+50000,46512,Doctor,Any,University,Married,2,Yes
+150000,1184,Doctor,Any,University,Married,2,No
+80000,15234,Doctor,Any,University,Married,2,Yes
+200000,-179,Doctor,Any,University,Married,2,Yes
+20000,20631,Doctor,Any,University,Married,2,Yes
+180000,83538,Doctor,Any,University,Married,2,Yes
+90000,23132,Doctor,Any,University,Married,2,No
+10000,1877,Broker,Any,University,Single,1,No
+70000,5580,Broker,Any,University,Single,1,No
+80000,14029,Broker,Any,University,Single,1,Yes
+220000,122286,Broker,Any,University,Single,1,No
+110000,83687,Broker,Any,University,Single,1,No
+20000,18937,Broker,Any,University,Single,1,No
+50000,2155,Broker,Any,University,Single,1,No
+60000,56685,Broker,Any,University,Single,1,No
+20000,19277,Broker,Any,University,Single,1,Yes
+100000,75912,Broker,Any,University,Single,1,No
+50000,46528,Broker,Any,University,Single,1,No
+280000,5924,Broker,Any,University,Single,1,No
+60000,45648,Broker,Any,University,Single,1,No
+20000,18290,Broker,Any,University,Single,1,No
+150000,142827,Broker,Any,University,Single,1,No
+150000,23165,Broker,Any,University,Single,1,No
+360000,0,Broker,Any,University,Single,1,Yes
+120000,2682,Broker,Any,University,Single,1,Yes
+50000,0,Broker,Any,University,Single,1,Yes
+30000,31319,Broker,Any,University,Single,1,No
+410000,-58,Broker,Any,University,Single,1,No
+80000,63144,Doctor,Any,Graduate School,Married,4,Yes
+310000,1920,Doctor,Any,Graduate School,Married,4,No
+200000,3858,Doctor,Any,Graduate School,Married,4,No
+210000,209807,Artist,Any,University,Married,1,Yes
+140000,81764,Artist,Any,University,Married,1,Yes
+50000,9877,Artist,Any,University,Married,1,No
+100000,20755,Artist,Any,University,Married,1,No
+100000,97062,Artist,Any,University,Married,1,No
+20000,15890,Artist,Any,University,Married,1,No
+90000,87525,Artist,Any,University,Married,1,Yes
+210000,104701,Artist,Any,University,Married,1,No
+150000,6156,Artist,Any,University,Married,1,No
+60000,58024,Artist,Any,University,Married,1,Yes
+50000,27699,Artist,Any,University,Married,1,No
+310000,74955,Artist,Any,University,Married,1,No
+50000,45663,Artist,Any,University,Married,1,No
+50000,27087,Artist,Any,University,Married,1,No
+20000,1261,Artist,Any,University,Married,1,Yes
+250000,2419,Artist,Any,University,Married,1,No
+40000,33895,Artist,Any,University,Married,1,Yes
+50000,819,Artist,Any,University,Married,1,No
+50000,37170,Engineer,Any,University,Single,1,No
+50000,10131,Engineer,Any,University,Single,1,No
+180000,-2,Engineer,Any,University,Single,1,No
+70000,42583,Engineer,Any,University,Single,1,Yes
+10000,7015,Engineer,Any,University,Single,1,Yes
+90000,47585,Engineer,Any,University,Single,1,No
+230000,12218,Engineer,Any,University,Single,1,No
+110000,58362,Engineer,Any,University,Single,1,Yes
+80000,69602,Engineer,Any,University,Single,1,No
+20000,70,Engineer,Any,University,Single,1,No
+120000,22431,Engineer,Any,University,Single,1,No
+60000,27199,Engineer,Any,University,Single,1,No
+20000,18852,Engineer,Any,University,Single,1,No
+130000,1031,Engineer,Any,University,Single,1,Yes
+140000,20110,Engineer,Any,University,Single,1,No
+100000,11876,Engineer,Any,University,Single,1,No
+20000,0,Engineer,Any,University,Single,1,No
+50000,8567,Engineer,Any,University,Single,1,No
+220000,1692,Engineer,Any,University,Single,1,No
+20000,6174,Engineer,Any,University,Single,1,Yes
+50000,48860,Engineer,Any,University,Single,1,No
+60000,15054,Engineer,Any,University,Single,1,No
+280000,427,Engineer,Any,University,Single,1,No
+70000,65793,Engineer,Any,University,Single,1,No
+170000,0,Engineer,Any,University,Single,1,No
+50000,0,Dealer,Any,University,Single,1,No
+80000,79243,Dealer,Any,University,Single,1,No
+180000,14445,Dealer,Any,University,Single,1,No
+50000,28040,Dealer,Any,University,Single,1,No
+80000,1200,Dealer,Any,University,Single,1,Yes
+20000,7186,Dealer,Any,University,Single,1,No
+200000,1747,Dealer,Any,University,Single,1,No
+130000,131575,Dealer,Any,University,Single,1,No
+50000,49276,Dealer,Any,University,Single,1,No
+50000,1399,Dealer,Any,University,Single,1,No
+70000,49605,Dealer,Any,University,Single,1,No
+250000,16884,Dealer,Any,University,Single,1,No
+180000,1832,Dealer,Any,University,Single,1,No
+100000,11540,Dealer,Any,University,Single,1,No
+30000,23892,Dealer,Any,University,Single,1,No
+100000,37767,Dealer,Any,University,Single,1,No
+30000,26957,Dealer,Any,University,Single,1,No
+80000,77615,Dealer,Any,University,Single,1,No
+20000,17257,Dealer,Any,University,Single,1,Yes
+50000,0,Dealer,Any,University,Single,1,No
+50000,7180,Dealer,Any,University,Single,1,Yes
+110000,106417,Dealer,Any,University,Single,1,No
+20000,3400,Dealer,Any,University,Single,1,No
+20000,1438,Dealer,Any,University,Single,1,No
+10000,2887,Dealer,Any,University,Single,1,No
+30000,31305,Dealer,Any,University,Single,1,Yes
+20000,0,Dealer,Any,University,Single,1,No
+30000,0,Dealer,Any,University,Single,1,Yes
+50000,390,Dealer,Any,University,Single,1,No
+210000,21780,Dealer,Any,University,Single,1,No
+470000,169699,Dealer,Any,University,Single,1,No
+50000,34549,Dealer,Any,University,Single,1,No
+220000,217800,Dealer,Any,University,Single,1,No
+80000,81625,Dealer,Any,University,Single,1,Yes
+50000,4136,Dealer,Any,University,Single,1,No
+110000,26650,Dealer,Any,University,Single,1,No
+180000,20730,Doctor,Any,University,Single,2,No
+30000,19785,Doctor,Any,University,Single,2,No
+60000,9744,Doctor,Any,University,Single,2,No
+50000,49617,Doctor,Any,University,Single,2,No
+50000,5197,Doctor,Any,University,Single,2,No
+50000,2522,Doctor,Any,University,Single,2,No
+230000,49619,Doctor,Any,University,Single,2,No
+90000,50477,Doctor,Any,University,Single,2,No
+30000,29657,Doctor,Any,University,Single,2,Yes
+210000,46255,Doctor,Any,University,Single,2,No
+180000,28566,Doctor,Any,University,Single,2,No
+200000,5780,Dealer,Any,Graduate School,Married,1,No
+50000,43343,Dealer,Any,Graduate School,Married,1,Yes
+140000,96304,Dealer,Any,Graduate School,Married,1,No
+80000,8574,Engineer,Any,Graduate School,Married,1,Yes
+290000,1312,Engineer,Any,Graduate School,Married,1,Yes
+30000,0,Engineer,Any,Graduate School,Married,1,No
+50000,19015,Artist,Any,University,Single,3,No
+80000,77057,Artist,Any,University,Single,3,No
+180000,2551,Artist,Any,University,Single,3,No
+50000,47647,Artist,Any,University,Single,3,Yes
+30000,21043,Artist,Any,University,Single,3,No
+10000,9532,Artist,Any,University,Single,3,No
+20000,17636,Artist,Any,University,Single,3,Yes
+210000,0,Artist,Any,University,Single,3,No
+500000,3959,Artist,Any,University,Single,3,No
+110000,57046,Artist,Any,University,Single,3,No
+180000,50420,Artist,Any,University,Single,3,Yes
+10000,8722,Artist,Any,University,Single,3,No
+80000,80610,Artist,Any,University,Single,3,No
+50000,39236,Artist,Any,University,Single,3,Yes
+500000,43346,Artist,Any,University,Single,3,No
+120000,-9,Engineer,Any,University,Married,2,No
+150000,6526,Engineer,Any,University,Married,2,No
+110000,115895,Engineer,Any,University,Married,2,No
+120000,4100,Engineer,Any,University,Married,2,No
+390000,424244,Engineer,Any,University,Married,2,No
+150000,0,Engineer,Any,University,Married,2,No
+360000,5157,Engineer,Any,University,Married,2,No
+200000,390,Engineer,Any,University,Married,2,No
+150000,36146,Engineer,Any,University,Married,2,No
+180000,143301,Engineer,Any,University,Married,2,No
+340000,167474,Engineer,Any,University,Married,2,No
+70000,10323,Engineer,Any,University,Married,2,Yes
+80000,28408,Engineer,Any,University,Married,2,No
+140000,139406,Engineer,Any,Graduate School,Married,4,Yes
+500000,13709,Engineer,Any,Graduate School,Married,4,No
+340000,30832,Engineer,Any,Graduate School,Married,4,Yes
+170000,17862,Engineer,Any,Graduate School,Married,4,No
+470000,190258,Dealer,Any,University,Single,2,No
+260000,-2,Dealer,Any,University,Single,2,No
+20000,0,Dealer,Any,University,Single,2,Yes
+90000,63626,Dealer,Any,University,Single,2,Yes
+470000,147113,Dealer,Any,University,Single,2,No
+170000,0,Dealer,Any,University,Single,2,No
+150000,60015,Dealer,Any,University,Single,2,No
+50000,18510,Dealer,Any,University,Single,2,No
+20000,17757,Dealer,Any,University,Single,2,No
+100000,107669,Dealer,Any,University,Single,2,No
+160000,3826,Dealer,Any,University,Single,2,No
+80000,79278,Dealer,Any,University,Single,2,No
+20000,16326,Teacher,Any,University,Single,3,No
+10000,4073,Teacher,Any,University,Single,3,Yes
+390000,5895,Teacher,Any,University,Single,3,No
+500000,36954,Doctor,Any,Graduate School,Married,3,No
+110000,36802,Doctor,Any,Graduate School,Married,3,No
+220000,210380,Doctor,Any,Graduate School,Married,3,Yes
+220000,2500,Doctor,Any,Graduate School,Married,3,Yes
+390000,495559,Doctor,Any,Graduate School,Married,3,No
+320000,253286,Doctor,Any,Graduate School,Married,3,No
+240000,0,Doctor,Any,Graduate School,Married,3,No
+210000,0,Teacher,Any,University,Married,3,Yes
+620000,160837,Teacher,Any,University,Married,3,Yes
+50000,40931,Teacher,Any,University,Married,3,Yes
+220000,217743,Teacher,Any,University,Married,3,No
+250000,100323,Teacher,Any,University,Married,3,No
+50000,19339,Teacher,Any,University,Married,3,No
+100000,34704,Teacher,Any,University,Married,3,No
+50000,1232,Teacher,Any,University,Married,3,No
+70000,4221,Teacher,Any,University,Married,3,Yes
+150000,153249,Teacher,Any,University,Married,3,No
+70000,50927,Teacher,Any,University,Married,3,Yes
+50000,45335,Teacher,Any,University,Married,3,No
+340000,331003,Teacher,Any,University,Married,3,No
+60000,48979,Teacher,Any,University,Married,3,No
+100000,2491,Teacher,Any,University,Married,3,No
+30000,1700,Teacher,Any,University,Married,3,No
+110000,45964,Broker,Any,University,Married,4,No
+80000,76962,Broker,Any,University,Married,4,Yes
+100000,101249,Broker,Any,University,Married,4,No
+250000,1338,Shopkeeper,Any,Graduate School,Single,3,Yes
+100000,15355,Shopkeeper,Any,Graduate School,Single,3,No
+240000,0,Shopkeeper,Any,Graduate School,Single,3,Yes
+180000,37353,Shopkeeper,Any,Graduate School,Single,3,No
+500000,33332,Shopkeeper,Any,Graduate School,Single,3,No
+20000,18803,Shopkeeper,Any,Graduate School,Single,3,Yes
+90000,70482,Teacher,Any,University,Married,1,No
+300000,0,Teacher,Any,University,Married,1,No
+20000,42784,Teacher,Any,University,Married,1,No
+60000,33147,Teacher,Any,University,Married,1,No
+140000,134203,Teacher,Any,University,Married,1,Yes
+120000,26476,Teacher,Any,University,Married,1,No
+90000,84148,Teacher,Any,University,Married,1,No
+50000,49613,Engineer,Any,University,Married,4,No
+380000,8201,Engineer,Any,University,Married,4,Yes
+340000,50396,Engineer,Any,University,Married,4,No
+480000,422069,Engineer,Any,University,Married,4,No
+50000,3257,Engineer,Any,University,Married,4,No
+220000,38746,Engineer,Any,University,Single,2,Yes
+90000,8792,Engineer,Any,University,Single,2,No
+130000,131446,Engineer,Any,University,Single,2,No
+320000,98697,Engineer,Any,University,Single,2,No
+360000,12865,Engineer,Any,University,Single,2,No
+120000,240,Engineer,Any,University,Single,2,Yes
+100000,121895,Engineer,Any,University,Single,2,Yes
+150000,86037,Engineer,Any,University,Single,2,No
+10000,8257,Engineer,Any,University,Single,2,Yes
+10000,8177,Engineer,Any,University,Single,2,No
+10000,0,Engineer,Any,University,Single,2,No
+50000,48206,Engineer,Any,University,Single,2,No
+420000,25103,Engineer,Any,University,Single,2,No
+200000,104978,Lawyer,Any,University,Married,2,Yes
+130000,133461,Lawyer,Any,University,Married,2,No
+210000,143225,Lawyer,Any,University,Married,2,No
+420000,88948,Lawyer,Any,University,Married,2,No
+200000,-2,Lawyer,Any,University,Married,2,No
+30000,184,Lawyer,Any,University,Married,2,No
+180000,2927,Lawyer,Any,University,Married,2,No
+210000,164015,Lawyer,Any,University,Married,2,No
+220000,158,Lawyer,Any,University,Married,2,No
+50000,45159,Lawyer,Any,University,Married,2,No
+230000,234328,Lawyer,Any,University,Married,2,Yes
+320000,21460,Broker,Any,University,Single,2,No
+250000,255223,Broker,Any,University,Single,2,Yes
+60000,-1540,Broker,Any,University,Single,2,No
+80000,89394,Broker,Any,University,Single,2,No
+50000,0,Broker,Any,University,Single,2,No
+80000,51372,Broker,Any,University,Single,2,No
+170000,2104,Broker,Any,University,Single,2,No
+50000,30518,Broker,Any,University,Single,2,Yes
+130000,9559,Broker,Any,University,Single,2,Yes
+400000,13611,Broker,Any,University,Single,2,No
+220000,34819,Broker,Any,University,Single,2,No
+90000,83725,Broker,Any,University,Single,2,No
+50000,48657,Broker,Any,University,Single,2,No
+270000,225400,Broker,Any,University,Single,2,No
+50000,49546,Lawyer,Any,Graduate School,Single,5,No
+50000,47166,Lawyer,Any,Graduate School,Single,5,No
+200000,38187,Broker,Any,University,Married,3,Yes
+70000,34779,Broker,Any,University,Married,3,No
+50000,44624,Broker,Any,University,Married,3,Yes
+170000,137823,Broker,Any,University,Married,3,No
+110000,108616,Broker,Any,University,Married,3,No
+150000,55336,Broker,Any,University,Married,3,No
+310000,13465,Broker,Any,University,Married,3,No
+500000,-984,Broker,Any,University,Married,3,Yes
+60000,21148,Broker,Any,University,Married,3,No
+110000,2410,Broker,Any,University,Married,3,No
+170000,0,Broker,Any,University,Married,3,No
+80000,81841,Broker,Any,University,Married,3,No
+50000,1261,Broker,Any,University,Married,3,No
+210000,0,Broker,Any,University,Married,3,No
+50000,18922,Artist,Any,University,Single,4,No
+190000,173058,Artist,Any,University,Single,4,No
+50000,34664,Artist,Any,University,Single,4,No
+50000,10571,Artist,Any,University,Single,4,No
+50000,48153,Artist,Any,University,Single,4,No
+20000,17420,Artist,Any,University,Single,4,No
+30000,26278,Artist,Any,University,Single,4,Yes
+360000,108351,Teacher,Any,University,Single,2,No
+210000,187610,Teacher,Any,University,Single,2,No
+140000,138119,Teacher,Any,University,Single,2,No
+250000,14451,Teacher,Any,University,Single,2,No
+270000,381,Teacher,Any,University,Single,2,Yes
+240000,50254,Teacher,Any,University,Single,2,No
+70000,22578,Teacher,Any,University,Single,2,No
+20000,2199,Teacher,Any,University,Single,2,No
+140000,135949,Teacher,Any,University,Single,2,No
+190000,129801,Teacher,Any,University,Single,2,Yes
+150000,80463,Teacher,Any,University,Single,2,Yes
+50000,50715,Shopkeeper,Any,Graduate School,Married,4,Yes
+20000,19965,Shopkeeper,Any,Graduate School,Married,4,No
+280000,284204,Shopkeeper,Any,University,Married,4,Yes
+220000,1994,Shopkeeper,Any,University,Married,4,Yes
+120000,118709,Shopkeeper,Any,University,Married,4,Yes
+110000,15069,Shopkeeper,Any,University,Married,4,No
+50000,17681,Doctor,Any,Graduate School,Single,3,No
+120000,70096,Doctor,Any,Graduate School,Single,3,No
+240000,471814,Doctor,Any,Graduate School,Single,3,No
+240000,246135,Doctor,Any,Graduate School,Single,3,Yes
+210000,0,Dealer,Any,Graduate School,Single,3,No
+160000,6241,Dealer,Any,Graduate School,Single,3,No
+370000,6093,Dealer,Any,Graduate School,Single,3,No
+360000,4134,Dealer,Any,Graduate School,Single,3,No
+260000,12261,Broker,Any,Graduate School,Single,4,No
+600000,467150,Broker,Any,Graduate School,Single,4,Yes
+50000,47917,Broker,Any,Graduate School,Single,4,No
+30000,30374,Broker,Any,Graduate School,Single,4,Yes
+50000,13917,Doctor,Any,University,Married,3,No
+240000,21943,Doctor,Any,University,Married,3,No
+500000,60246,Doctor,Any,University,Married,3,No
+150000,79021,Doctor,Any,University,Married,3,No
+110000,55349,Doctor,Any,University,Married,3,No
+230000,819,Doctor,Any,University,Married,3,No
+260000,18256,Doctor,Any,University,Married,3,No
+370000,21160,Lawyer,Any,Graduate School,Married,4,No
+320000,9955,Lawyer,Any,Graduate School,Married,4,Yes
+100000,0,Lawyer,Any,Graduate School,Married,4,Yes
+200000,138180,Lawyer,Any,Graduate School,Married,4,Yes
+80000,9168,Dealer,Any,University,Married,1,No
+180000,133868,Dealer,Any,University,Married,1,No
+180000,2488,Dealer,Any,University,Married,1,No
+310000,31132,Engineer,Any,University,Married,1,No
+140000,2515,Engineer,Any,University,Married,1,No
+100000,102349,Engineer,Any,University,Married,1,No
+240000,2816,Engineer,Any,University,Married,1,No
+30000,30606,Engineer,Any,University,Married,1,No
+50000,51044,Lawyer,Any,Graduate School,Married,1,No
+90000,38921,Lawyer,Any,Graduate School,Married,1,No
+360000,18886,Lawyer,Any,Graduate School,Married,1,No
+230000,51802,Lawyer,Any,University,Married,4,Yes
+50000,3347,Lawyer,Any,University,Married,4,Yes
+50000,2072,Lawyer,Any,University,Married,4,No
+390000,834,Lawyer,Any,Graduate School,Single,3,No
+300000,247279,Lawyer,Any,Graduate School,Single,3,No
+30000,29033,Shopkeeper,Any,University,Single,3,No
+30000,396,Shopkeeper,Any,University,Single,3,No
+380000,0,Shopkeeper,Any,High School,Married,4,No
+450000,8940,Shopkeeper,Any,High School,Married,4,No
+30000,29278,Shopkeeper,Any,High School,Married,4,Yes
+90000,81998,Doctor,Any,University,Married,4,Yes
+50000,11351,Doctor,Any,University,Married,4,No
+200000,3035,Doctor,Any,University,Married,4,No
+480000,17189,Doctor,Any,University,Married,4,No
+120000,390,Shopkeeper,Any,High School,Married,1,No
+120000,115583,Shopkeeper,Any,High School,Married,1,No
+50000,22854,Shopkeeper,Any,High School,Married,1,No
+230000,1292,Doctor,Any,University,Single,4,Yes
+230000,110163,Doctor,Any,University,Single,4,No
+160000,3128,Doctor,Any,University,Single,4,Yes
+230000,1477,Artist,Any,Graduate School,Married,5,No
+230000,1443,Artist,Any,Graduate School,Married,5,No
+180000,81044,Shopkeeper,Any,University,Single,4,Yes
+360000,640,Shopkeeper,Any,University,Single,4,No
+50000,47069,Teacher,Any,University,Married,4,No
+10000,2097,Teacher,Any,University,Married,4,Yes
+130000,99,Teacher,Any,University,Married,4,No

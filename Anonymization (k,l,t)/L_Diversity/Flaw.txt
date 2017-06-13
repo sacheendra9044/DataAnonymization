@@ -1,0 +1,24 @@
+1. The data quality is reduced as we have seen in the example shown earlier
+
+		2	Any	Person	Any	Any	Europe	Employed	Exec-managerial	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Craft-repair	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Craft-repair	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Craft-repair	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Exec-managerial	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Exec-managerial	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Exec-managerial	<=50K
+		2	Any	Person	Any	Any	Europe	Employed	Sales			<=50K
+
+2. For the following equivalence class :
+
+	[5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Craft-repair'         '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Transport-moving'     '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Exec-managerial'      '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Exec-managerial'      '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Exec-managerial'      '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Exec-managerial'      '<=50K'
+    [5]    'Any'    'Person'    'School'      'spouse present'        'A*a'       'Employed'    'Exec-managerial'      '<=50K'
+
+    We have 5 records out of 7 which have Occupation as Exec-managerial (71.4 %).
+    In the original dataset, there were 663 out of 5000 records with Occupation as Exec-managerial (13.26 %). (Skewness attack)
+

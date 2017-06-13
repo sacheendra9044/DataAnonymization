@@ -1,0 +1,15 @@
+kanon2 = 
+
+    [42]    'Male'      'White'    '11th'           'Divorced'              'Puerto-Rico'      'Local-gov'           'Sales'                '>50K' 
+    [30]    'Male'      'White'    'HS-grad'        'Married-civ-spouse'    'Ireland'          'Private'             'Machine-op-inspct'    '>50K' 
+    [30]    'Male'      'White'    'Bachelors'      'Never-married'         'United-States'    'Federal-gov'         'Prof-specialty'       '>50K' 
+    [18]    'Male'      'White'    '11th'           'Never-married'         'Scotland'         'Private'             'Other-service'        '<=50K'
+    [61]    'Male'      'White'    'Bachelors'      'Married-civ-spouse'    'United-States'    'Local-gov'           'Exec-managerial'      '>50K' 
+    [26]    'Male'      'White'    '9th'            'Married-civ-spouse'    'Portugal'         'Self-emp-not-inc'    'Craft-repair'         '<=50K'
+    [29]    'Male'      'White'    'Prof-school'    'Never-married'         'Italy'            'Self-emp-not-inc'    'Prof-specialty'       '>50K' 
+    [65]    'Female'    'White'    '7th-8th'        'Widowed'               'United-States'    'Without-pay'         'Farming-fishing'      '<=50K'
+    [61]    'Male'      'White'    '9th'            'Divorced'              'Puerto-Rico'      'Private'             'Handlers-cleaners'    '>50K' 
+    [61]    'Male'      'White'    'Bachelors'      'Married-civ-spouse'    'Germany'          'Self-emp-inc'        'Exec-managerial'      '>50K' 
+    [35]    'Male'      'White'    'Bachelors'      'Divorced'              'Germany'          'Private'             'Tech-support'         '>50K' 
+    [53]    'Male'      'White'    'Doctorate'      'Married-civ-spouse'    'Germany'          'Federal-gov'         'Prof-specialty'       '>50K' 
+    [30]    'Female'    'Black'    'Bachelors'      'Never-married'         'Germany'          'Local-gov'           'Prof-specialty'       '<=50K'

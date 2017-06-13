@@ -1,0 +1,6 @@
+We note that t-closeness protects against attribute disclosure, but does not deal with identity disclosure. Thus, it may
+be desirable to use both t-closeness and k-anonymity at the same time.
+1. t-closeness deals with the homogeneity and background knowledge attacks on k-anonymity not by guaranteeing that they can never
+occur, but by guaranteeing that if such attacks can occur, then similar attacks can occur even with a fully-generalized
+table.
+2. This is the best one can achieve if one is to release the data at all.

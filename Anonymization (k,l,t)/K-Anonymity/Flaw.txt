@@ -1,0 +1,14 @@
+   Original:
+    [48]    'Male'      'White'    '7th-8th'    'Married-civ-spouse'    'Italy'    'Self-emp-not-inc'    'Craft-repair'    '<=50K'
+    [56]    'Male'      'White'    '12th'       'Married-civ-spouse'    'Italy'    'Private'             'Craft-repair'    '<=50K'
+    [46]    'Female'    'White'    '5th-6th'    'Married-civ-spouse'    'Italy'    'Private'             'Craft-repair'    '<=50K'
+
+   k-Anonymous:
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+
+    SELECT * FROM k_anonymous WHERE Age=2 AND Sex="Any" AND Race="Person" AND Education = "School" AND MaritalStatus = "spouse present" AND Country = "Europe" AND WorkClass = "Non-Government" AND SalaryClass = "<=50K";
+
+
+    Record Number range = 4084-4086

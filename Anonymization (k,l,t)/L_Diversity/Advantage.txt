@@ -1,0 +1,22 @@
+Earlier in K-Anonymous
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+	2	Any	Person	School	spouse present	Europe	Non-Government	Craft-repair	<=50K
+
+Now in L-diverse
+	2	Any	Person	Any	Any	Europe	Employed	Exec-managerial		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Craft-repair		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Craft-repair		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Craft-repair		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Exec-managerial		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Exec-managerial		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Exec-managerial		<=50K
+	2	Any	Person	Any	Any	Europe	Employed	Sales				<=50K
+
+
+SELECT * FROM l_diverse WHERE Age=2 AND Sex="Any" AND Race="Person" AND (Education = "School" OR Education = "Any" OR Education = "***") AND (MaritalStatus = "spouse present" OR MaritalStatus = "Any") AND Country = "Europe" AND WorkClass = "Employed" AND SalaryClass = "<=50K";
+
+
+First we were getting three records with Same data
+Now we are getting 8 records with 3 distinct sensitive attributes for same query
+

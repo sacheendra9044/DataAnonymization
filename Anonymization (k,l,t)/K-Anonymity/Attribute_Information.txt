@@ -1,0 +1,6 @@
+Attributes = {Age, Gender, Race, Education, Marital Status, Native Country, Work Class, Occupation, Salary Class}
+Sensitive = {Occupation}
+Quasi-Identifier = {Age, Gender, Race, Education, Marital Status,
+Native Country, Work Class, Salary Class}
+
+insert(conn,'dataset',{'Age','Sex','Race','Education','MaritalStatus','Country','WorkClass','Occupation','SalaryClass'},original)

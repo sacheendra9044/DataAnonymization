@@ -1,0 +1,3 @@
+Sensitive = {LIMIT_BAL};
+Quasi-Identifier = {SEX, EDUCATION, JOB, MARRIAGE, AGE}
+Non Sesitive Attribute = {BILL_AMOUNT, PAY_DUE}
